@@ -1,0 +1,66 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+
+<title> </title>
+<script src="jquery.js"></script>
+<script src="javascript.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css" />
+
+
+
+</head>
+<body>
+
+<div class="">
+		<th valign="top">Campaña:</th>
+		<td>	
+		  <p>
+		    <select name="periodo" class="styledselect_form_1">
+		      <option value="escoja">Escoja...</option>
+			  <?php while ($reg=mysql_fetch_array($res_lista_periodo)) {?>
+              <option id="periodo" value="<?php echo $reg['nombre_periodo'];?>"><?php echo $reg['nombre_periodo'];?></option>
+		      <?php }?>
+		    </select>
+		</td>
+		<td>&nbsp;&nbsp;&nbsp;&nbsp;<a style="color:#036; font-weight:bold;" href="inserta_periodo_form.php">Crear nueva Campa&ntilde;a?</a></td>
+		</tr>
+		<tr>
+    <div id="drop-files" ondragover="return false">
+		Arrarstre y suelte aqui las imagenes
+	</div>
+	
+	<div id="uploaded-holder">
+		<div id="dropped-files">
+			<div id="upload-button">
+				<a href="#" class="upload">Subir!</a>
+				<a href="#" class="delete">Borrar</a>
+				<span>0 archivos</span>
+			</div>
+		</div>
+		<div id="extra-files">
+			<div class="number">
+				0
+			</div>
+			<div id="file-list">
+				<ul></ul>
+			</div>
+		</div>
+	</div>
+	
+	<div id="loading">
+		<div id="loading-bar">
+			<div class="loading-color"> </div>
+		</div>
+		<div id="loading-content">subiendo archivo .jpg</div>
+	</div>
+	
+	<div id="file-name-holder">
+		<ul id="uploaded-files">
+			<h1>Archivos subidos</h1>
+		</ul>
+	</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,36 @@
+RewriteEngine On
+
+errorDocument 404 http://127.0.0.1/upb3/error/404.html
+
+
+#Rewrite reglas de php -> html con SEO
+RewriteRule ^acerca.html$ acerca.php [L]
+RewriteRule ^bolsa-de-trabajo.html$ bolsa-de-trabajo.php [L]
+RewriteRule ^acreditaciones.html$ acreditaciones.php [L]
+RewriteRule ^becas.html$ becas.php [L]
+RewriteRule ^campus.html$ campus.php [L]
+RewriteRule ^cbba.html$ cbba.php [L]
+RewriteRule ^centros-de-investigacion.html$ centros_investigacion.php [L]
+RewriteRule ^comunidad.html$ comunidad.php [L]
+RewriteRule ^consultoria.html$ consultoria.php [L]
+RewriteRule ^convenios-empresariales.html$ convenios-empresariales.php [L]
+RewriteRule ^convenios-internacionales.html$ convenios-internacionales.php [L]
+RewriteRule ^convenios-nacionales.html$ convenios-nacionales.php [L]
+RewriteRule ^convenios.html$ convenios.php [L]
+RewriteRule ^extension.html$ extension.php [L]
+RewriteRule ^financiamiento-de-postgrado.html$ financiamiento-postgrado.php [L]
+RewriteRule ^gobierno-UPB.html$ gobierno.php [L]
+RewriteRule ^informacion.html$ informacion.php [L]
+RewriteRule ^investigacion.html$ investigacion.php [L]
+RewriteRule ^plantel-administrativo-UPB.html$ plantel_admin.php [L]
+RewriteRule ^postgrado.html$ postgrado.php [L]
+RewriteRule ^pregrado-Cochabamba.html$ pregrado_cbba.php [L]
+RewriteRule ^pregrado-La-Paz.html$ pregrado_lp.php [L]
+RewriteRule ^publicaciones.html$ publicaciones.php [L]
+RewriteRule ^pub.html$ pub.php [L]
+RewriteRule ^servicios.html$ servicios.php [L]
+RewriteRule ^vicerrectorado-UPB.html$ vicerrectorado.php [L]
+RewriteRule ^vida-universitaria.html$ vida.php [L]
+
+
+RewriteRule ^carreras/C([0-9]*)\.html$ carrera.php?ask=$1 [L]

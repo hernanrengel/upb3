@@ -1,0 +1,824 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"colo",
+				"color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bor",
+				"border-left"
+			],
+			[
+				"s",
+				"src"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ba",
+				"page-break-after"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"head",
+				"header	Tag"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marg",
+				"margin-left"
+			],
+			[
+				"re",
+				"background-repeat"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"he",
+				"header	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "menu.php",
+			"settings":
+			{
+				"buffer_size": 4070,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "convenios.php",
+			"settings":
+			{
+				"buffer_size": 30021,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "servicios.php",
+			"settings":
+			{
+				"buffer_size": 13019,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "extension.php",
+			"settings":
+			{
+				"buffer_size": 6447,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "comunidad.php",
+			"settings":
+			{
+				"buffer_size": 11790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "index.php",
+			"settings":
+			{
+				"buffer_size": 3279,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pregrado_lp.php",
+			"settings":
+			{
+				"buffer_size": 13351,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "acerca.php",
+			"settings":
+			{
+				"buffer_size": 15650,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pregrado_cbba.php",
+			"settings":
+			{
+				"buffer_size": 13919,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "investigacion.php",
+			"settings":
+			{
+				"buffer_size": 5900,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "vicerrectorado.php",
+			"settings":
+			{
+				"buffer_size": 7330,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/app_upb2/index.php",
+			"settings":
+			{
+				"buffer_size": 5562,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Hernan-OF/Desktop/index.php",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/advice5/index.html",
+			"settings":
+			{
+				"buffer_size": 24816,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"emmet",
+				"Toggle Comment"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 146.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Hernan-OF/Desktop/lp.html",
+		"/C/xampp/htdocs/app_upb/index.html",
+		"/C/xampp/htdocs/upb3/css/style_1.css",
+		"/C/xampp/htdocs/upb3/menu.php",
+		"/C/xampp/htdocs/upb3/centros_investigacion.php",
+		"/C/xampp/htdocs/upb3/vicerrectorado.php",
+		"/C/xampp/htdocs/upb3/investigacion.php",
+		"/C/xampp/htdocs/upb3/convenios.php",
+		"/C/xampp/htdocs/upb3/pregrado_lp.php",
+		"/C/xampp/htdocs/upb3/pregrado_cbba.php",
+		"/C/xampp/htdocs/upb3/gobierno.php",
+		"/C/xampp/htdocs/UPB/upb_front/admin/index.php",
+		"/C/xampp/htdocs/UPB/upb_front/admin/logueo.php",
+		"/C/xampp/htdocs/UPB/upb_front/admin/logout.php",
+		"/C/Users/Hernan-OF/Desktop/base_ADMIN/admin/sorteo.php",
+		"/C/Users/Hernan-OF/Desktop/base_ADMIN/ad2/admin/sorteo.php",
+		"/C/Users/Hernan-OF/Desktop/base_ADMIN/ad3/admin/index.php",
+		"/C/Users/Hernan-OF/Desktop/base_ADMIN/ad3/admin/sorteo.php",
+		"/C/Users/Hernan-OF/Desktop/conexion.php",
+		"/C/xampp/htdocs/app_upb/script.js",
+		"/C/Users/HERNAN~1/AppData/Local/Temp/Rar$DRa0.331/submit.php",
+		"/C/Users/HERNAN~1/AppData/Local/Temp/Rar$DRa0.331/demo.html",
+		"/C/Users/HERNAN~1/AppData/Local/Temp/Rar$DRa0.331/styles.css",
+		"/C/xampp/htdocs/app_upb/submit.php",
+		"/C/xampp/htdocs/app_upb/css/style.css",
+		"/C/xampp/htdocs/app_upb/css/normalize.css",
+		"/C/xampp/htdocs/app_upb/css/main.css",
+		"/C/Users/Hernan-OF/Desktop/lista_excel.php",
+		"/C/Users/Hernan-OF/Desktop/sorteo.php",
+		"/C/Users/Hernan-OF/Downloads/app_amaszonas_promocion.sql",
+		"/C/xampp/htdocs/UPB/upb_front/f_posts.php",
+		"/C/xampp/htdocs/UPB/upb_front/cadenas_JSON/posts_JSON.php",
+		"/C/xampp/htdocs/UPB/upb_front/cadenas_JSON/json_lista_sliders.php",
+		"/C/xampp/htdocs/UPB/upb_front/cadenas_JSON/json_lista_menu_principal.php",
+		"/C/xampp/htdocs/UPB/upb_front/cadenas_JSON/json_lista_siliders.php",
+		"/C/xampp/htdocs/UPB/upb_front/cadenas_JSON/json_lista_posts.php",
+		"/C/xampp/htdocs/app_amaszonas/index.html",
+		"/C/xampp/htdocs/app_amaszonas/css/style.css",
+		"/C/xampp/htdocs/UPB/upb_front/f_sliders.php",
+		"/C/xampp/htdocs/UPB/upb_front/cadenas_JSON/json_lista_imagen.php",
+		"/C/xampp/htdocs/UPB/upb_front/cadenas_JSON/json_lista_menu_contenido.php",
+		"/C/Users/Hernan-OF/Desktop/ftp_Amaszonas/index.php",
+		"/C/xampp/htdocs/bmsc_oferta/index.html",
+		"/C/Users/HERNAN~1/AppData/Local/Temp/Rar$DRa0.862/fancyapps-fancyBox-0ffc358/demo/index.html",
+		"/C/xampp/htdocs/bmsc_oferta/css/style.css",
+		"/C/xampp/htdocs/bmsc_oferta/js/js.js",
+		"/C/Users/Hernan-OF/Desktop/lp_poleras/index.html",
+		"/C/xampp/htdocs/bmsc_concurso/inserta_persona.php",
+		"/C/xampp/htdocs/copyleft/config-core.php",
+		"/C/xampp/htdocs/copyleft/config.php",
+		"/C/xampp/htdocs/copyleft/config-dist.php",
+		"/C/xampp/htdocs/copyleft/database/DB_Connect.php",
+		"/C/xampp/htdocs/copyleft/INSTALL",
+		"/C/xampp/htdocs/copyleft/database/config.php",
+		"/C/xampp/htdocs/copyleft/database/DB_Functions.php",
+		"/C/xampp/htdocs/copyleft/vfs.php",
+		"/C/xampp/htdocs/copyleft/vfs-ftp.php",
+		"/C/Users/Hernan-OF/Desktop/copyleft (1).tar.gz",
+		"/C/Users/Hernan-OF/Desktop/scroll/README.md",
+		"/C/Users/Hernan-OF/Desktop/concurso/index.php",
+		"/C/Users/Hernan-OF/Desktop/camara/CameraSensor.v2.3.js",
+		"/C/Users/Hernan-OF/Desktop/camara/face.js",
+		"/C/Users/Hernan-OF/Desktop/camara/ccv.js",
+		"/C/Users/Hernan-OF/Desktop/camara/index.html",
+		"/C/xampp/apache/conf/httpd.conf"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"lor",
+			"src=\"",
+			"<li>",
+			"internacionales",
+			"<p",
+			"mem",
+			"inge",
+			"submit",
+			"name",
+			"field",
+			"carbonForm",
+			"fieldContainer",
+			"name",
+			"<br/>",
+			"type",
+			"sql_lista_imagen",
+			"220",
+			"190",
+			"inmg",
+			"images",
+			"<font size=\"2\">",
+			"font size=\"2\">",
+			"<strong>",
+			"</strong></font>",
+			"</font></strong>",
+			"<strong><font size=\"3\">",
+			"<strong>",
+			"<p>",
+			"p",
+			"P",
+			"p",
+			"port"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 13,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "menu.php",
+					"settings":
+					{
+						"buffer_size": 4070,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2794,
+								2794
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "convenios.php",
+					"settings":
+					{
+						"buffer_size": 30021,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								29644,
+								29679
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5800.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "servicios.php",
+					"settings":
+					{
+						"buffer_size": 13019,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2551,
+								2551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 65.0,
+						"translation.y": 2419.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "extension.php",
+					"settings":
+					{
+						"buffer_size": 6447,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4197,
+								4197
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 810.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "comunidad.php",
+					"settings":
+					{
+						"buffer_size": 11790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								11790,
+								11790
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "index.php",
+					"settings":
+					{
+						"buffer_size": 3279,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1099,
+								1099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "pregrado_lp.php",
+					"settings":
+					{
+						"buffer_size": 13351,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4041,
+								4041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "acerca.php",
+					"settings":
+					{
+						"buffer_size": 15650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1021,
+								1021
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 32.0,
+						"translation.y": 648.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "pregrado_cbba.php",
+					"settings":
+					{
+						"buffer_size": 13919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1051,
+								1051
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "investigacion.php",
+					"settings":
+					{
+						"buffer_size": 5900,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1088,
+								1088
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "vicerrectorado.php",
+					"settings":
+					{
+						"buffer_size": 7330,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7330,
+								7330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/C/xampp/htdocs/app_upb2/index.php",
+					"settings":
+					{
+						"buffer_size": 5562,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5562,
+								5562
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 887.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/C/Users/Hernan-OF/Desktop/index.php",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1080.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/C/xampp/htdocs/advice5/index.html",
+					"settings":
+					{
+						"buffer_size": 24816,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								500,
+								500
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1836.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true
+}
