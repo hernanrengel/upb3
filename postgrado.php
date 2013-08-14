@@ -43,8 +43,7 @@
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
                 	<li><a href="#doctorado">Doctorados<i class="icon-home"></i></a></li>
-                    <li><a href="#maestrias_t">Maestr&iacute;as<i class="icon-home"></i></a></li>
-                    <li><a href="#maestrias_e">Maestr&iacute;as Ejecutivas<i class="icon-home"></i></a></li>
+                    <li><a href="#maestrias_t">Maestr&iacute;as Ejecutivas<i class="icon-home"></i></a></li>
                     <li><a href="#diplomados">Diplomados<i class="icon-home"></i></a></li>
                     <li><a href="plantel_admin.php#admin">Plantel Administrativo<i class="icon-home"></i></a></li>
                     <li><a href="plantel_admin.php#convenios">Convenios<i class="icon-home"></i></a></li>

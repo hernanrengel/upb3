@@ -85,6 +85,15 @@
         ?></title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
+        <link type="text/css" href="../css/jquery.jscrollpane.css" rel="stylesheet" media="all" />
+        <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
+        <link rel="stylesheet" type="text/css" href="../css/fonts.css">
+        <link rel="stylesheet" type="text/css" href="../css/normalize.css">
+        <link rel="stylesheet" type="text/css" href="../css/fonts.css">
+        <link rel="stylesheet" type="text/css" href="../css/layout_2.css">
+        <link rel="stylesheet" type="text/css" href="../css/style.css">
+        <link rel="stylesheet" type="text/css" href="../css/about.css"> 
+        <link rel="stylesheet" type="text/css" href="../source/jquery.fancybox.css?v=2.1.4" media="screen" />
         
         <?php switch ($id) {
             case '1':
@@ -142,17 +151,7 @@
                 echo "<link rel='stylesheet' type='text/css' href='../css/style_1.css'>";
                 break;
         } 
-        ?>
-        <link type="text/css" href="../css/jquery.jscrollpane.css" rel="stylesheet" media="all" />
-        <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
-        <link rel="stylesheet" type="text/css" href="../css/fonts.css">
-        <link rel="stylesheet" type="text/css" href="../css/normalize.css">
-        <link rel="stylesheet" type="text/css" href="../css/fonts.css">
-        <link rel="stylesheet" type="text/css" href="../css/layout_2.css">
-        <link rel="stylesheet" type="text/css" href="../css/style.css">
-        <link rel="stylesheet" type="text/css" href="../css/style_1.css">
-        <link rel="stylesheet" type="text/css" href="../css/about.css"> 
-        <link rel="stylesheet" type="text/css" href="../source/jquery.fancybox.css?v=2.1.4" media="screen" />   
+        ?>   
 		<script src="../js/vendor/modernizr-2.6.2.min.js"></script>
         <script src="../js/prefixfree.min.js"></script>
         <style>
@@ -221,13 +220,13 @@
                         <span class="control right">›</span>
                     </div> 
                     <p>
-                        <?php echo utf8_encode($reg['director']); ?>
+                        <h2><?php echo utf8_encode($reg['director']); ?></h2>
                     </p>
                     <p>    
-                        <?php echo utf8_encode($reg['cargo']); ?>
+                        <h2><?php echo utf8_encode($reg['cargo']); ?></h2>
                     </p>
                     <p>    
-                        <h2><a style="color: white; font-size: 20px; font-weight: 800; " href="../curriculum.php?ask=<?php echo $reg['idupb_plantel']; ?>" class="fancybox fancybox.ajax">Ver Curriculum</a></h2>
+                        <h2><a style="color: white; font-size: 18px; font-weight: 800; " href="../curriculum.php?ask=<?php echo $reg['idupb_plantel']; ?>" class="fancybox fancybox.ajax">Ver Curriculum</a></h2>
                         <br><br>
                     </p>    
                 </div>

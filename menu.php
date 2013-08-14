@@ -32,7 +32,7 @@
                     	<ul>
                         	<li><a href="postgrado.php#doctorado">Programas de Doctorado</a></li>
                             <li><a href="postgrado.php#maestrias_t">Maestr&iacute;as a tiempo completo</a></li>
-                            <li><a href="postgrado.php#maestrias_e">Maestr&iacute;as ejecutivas</a></li>
+                            <li><a href="postgrado.php#maestrias_t">Maestr&iacute;as ejecutivas</a></li>
                             <li><a href="postgrado.php#diplomados">Diplomado</a></li>
                             <li><a href="plantel_admin.php#admin">Plantel Administrativo</a></li>
                             <li><a href="plantel_admin.php#convenios">Convenios & Financiamiento</a></li>
@@ -59,7 +59,7 @@
                     	<i class="icon-lab"></i>
                     	</a>
                     	<ul>
-                            <li><a href="centros_investigacion.php.php">Centros de Investigaci&oacute;n</a></li>
+                            <li><a href="centros_investigacion.php">Centros de Investigaci&oacute;n</a></li>
                             <li><a href="investigacion.php">Revista Investigaci&oacute;n & Desarrollo</a></li>
                             <li><a href="publicaciones.php">Publicaciones</a></li>
                         </ul>

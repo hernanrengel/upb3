@@ -38,12 +38,12 @@
                 	<li><a href="#rector">&iquest;Qu&eacute; es la UPB?<i class="icon-home"></i></a></li>
                     <li><a href="#se">Gobierno y Administraci&oacute;n<i class="icon-home"></i></a>
                     	<ul>
-                        	<li><a href="#rector">Rector</a></li>
+                            <li><a href="senado.php">Senado Universitario</a></li>
+                            <li><a href="#rector">Rector</a></li>
                             <li><a href="#se">Secretar&iacute;a General</a></li>
                             <li><a href="#apdu">Asesor Principal de Desarrollo Universitario</a></li>
                             <li><a href="#se">Asesor Principal Planificación y Evaluación</a></li>
                             <li><a href="#apmi">Asesor Principal Marketing Institucional</a></li>
-                            <li><a href="senado.php">Senado Universitario</a></li>
                         </ul>
                     </li>
                     <li><a href="convenios.php">Convenios & Membres&iacute;as<i class="icon-home"></i></a></li>
@@ -152,30 +152,14 @@
                     <div id="datos">
                     	<h2>Carla Reyes</h2>
                         <p>Profesor Asociado</p>
-                        <p>Tel: 591(4) 4268287 - Int. 236 / Celular 77499901</p> 
-                        <p>Email: jburgos@upb.edu</p>
+                        <p>Asesora Principal de Marketing Institucional</p> 
+                        <p>Email: creyes@upb.edu</p>
                     	<h2>Estudios</h2>
-                        <p>Doctorante en Ciencias de Gestión (Université Jean Moulin Lyon, Francia).
-						Maestría en Investigación de Actividades Internacionales (Université Jean Moulin Lyon, Francia)
-						Maestría en Administración de Empresas, mención Cum Laude (Universidad Privada Boliviana, Bolivia)
-						Licenciatura en Ingeniería Comercial (Universidad Católica de Valparaíso, Chile)</p>
+                        <p>Contenido de estudios de Carla Reyes</p>
                         <h2>Especialidad</h2>
-                        <p>Sus áreas de especialidad son el Marketing Internacional, Administración de Canales de Distribución, Estrategias y Políticas de Precios, Marketing y Marketing de Servicios.</p>
+                        <p>Contendo de Especialidad de Carla Reyes</p>
                         <h2>Desempeño Profesional</h2>
-                        <p>Vicepresidente del Directorio desde la Gestión 2008: Productos Ecológicos Naturaleza S.A. (Frutté)
-                        Consultor en el área de marketing de la Unidad de Consultoría de la UPB.
-                        En la Universidad Privada Boliviana desempeña el cargo en la Jefatura de Ingeniería Comercial (2001 a la fecha), ha ocupado los cargos de Jefatura de Administración de Empresas (1999-2001), Jefatura de Marketing (1997-1999).
-                        Fue Gerente en la Distribuidora Cochabamba de Industrias Vascal S.A. Desempeñó los cargos de Contador y Supervisor de Ventas en Vascal S.A. (Embotellador de The Coca Cola Company en Bolivia). 
-                        Ocupó el cargo de Oficial de Créditos Banca Empresarial en el Banco Popular del Perú.
-                        Es profesor titular de maestría en el programa MADE: Marketing Internacional y del programa MAE (con Asesoramiento del INCAE): Mercadeo II</p>
-					   <p>Es profesor titular en pregrado de las materias de Marketing, Administración de Canales de Distribución, Marketing Internacional y Estrategia y Política de Precios.
-                        Ha creado la carrera de Ingeniería Comercial en la UPB y rediseñó la carrera de Marketing.
-                        Ha sido pionero en implementar el primer curso virtual en la UPB en las materias de Mercadotecnia I y Marketing de Servicios.</p>
-					   <p>Ha contribuido en la redacción de un caso en el primer libro de Casos Bolivianos que ha publicado la UPB
-                        Ha redactado un caso sobre el Programa de Orégano y Especias dentro el trabajo de consultoría que la UPB ha realizado para MAPA – USAID.
-                        Es asesor metodológico de tesis y otras modalidades de titulación en pregrado y posgrado en la UPB
-                        Expositor invitado al VII Congreso Nacional de Ingenieros Comerciales, Cochabamba, Octubre 2008
-                        Expositor invitado al II Congreso Nacional de Estudiantes Universitarios de Adm. de empresas, Ing. Comercial e Ing. Financiera, UMSA – La Paz, Mayo 2003.</p>
+                        <p>Desempeño Profesional de carla Reyes</p>
                     </div>
                 </div>
 			</div>        	      

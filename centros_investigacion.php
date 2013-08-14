@@ -78,11 +78,11 @@
                         <span class="control left">‹</span>
                         <span class="control right">›</span>
  					</div>                   
-                    <p>Los Centros de Investigación son unidades operativas dependientes del Vicerrectorado de Investigación, 				encargadas de materializar la ejecución de las Áreas Estratégicas de investigación, que son áreas relevantes genéricas del conocimiento, priorizadas por la visión y políticas institucionales, que enlazan la pertinencia institucional y social con el análisis del contexto y que imprimen a la Universidad una identidad académica en el campo de la investigación.</p>
+                    <p id="carrera">Los Centros de Investigación son unidades operativas dependientes del Vicerrectorado de Investigación, 				encargadas de materializar la ejecución de las Áreas Estratégicas de investigación, que son áreas relevantes genéricas del conocimiento, priorizadas por la visión y políticas institucionales, que enlazan la pertinencia institucional y social con el análisis del contexto y que imprimen a la Universidad una identidad académica en el campo de la investigación.</p>
 
-<p>Cada Centro de Investigación tiene a su cargo todos los proyectos relacionados con un área estratégica específica asignada, estructurados dentro de programas y líneas de investigación. Cada Centro de Investigación es conducido por un Director y cuenta con un personal asignado de investigadores, docentes investigadores y estudiantes investigadores.</p>
- 
-<p>En la actualidad, la Universidad Privada Boliviana cuenta con los siguientes centros de investigación:</p>
+                    <p id="carrera">Cada Centro de Investigación tiene a su cargo todos los proyectos relacionados con un área estratégica específica asignada, estructurados dentro de programas y líneas de investigación. Cada Centro de Investigación es conducido por un Director y cuenta con un personal asignado de investigadores, docentes investigadores y estudiantes investigadores.</p>
+                     
+                    <p id="carrera">En la actualidad, la Universidad Privada Boliviana cuenta con los siguientes centros de investigación:</p>
                 <div id="caja_inves">
                     <img src="images/inves/CIEE-Logo.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones Económicas y Empresariales – CIEE</a></div>
                 </div>
