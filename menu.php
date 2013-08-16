@@ -15,8 +15,10 @@
                     	<i class="icon-accessibility"></i>
                     	</a>
                     	<ul>
-                        	<li><a href="informacion.php">Informaciones</a></li>
-                            <li><a href="proceso.php">Proceso de Admisi&oacute;n</a></li>
+                        	<li><a href="informacion.php">Informaciones Pregrado</a></li>
+                            <li><a href="informacion-postgrado.php">Informaciones Postgrado</a></li>
+                            <li><a href="proceso.php">Proceso de Admisi&oacute;n Pregrado</a></li>
+                            <li><a href="proceso-postgrado.php">Proceso de Admisi&oacute;n Postgrado</a></li>
                             <li><a href="admisiones-estudiantes-extranjeros.php">Estudiantes Extranjeros</a></li>
                             <li><a href="becas.php">Programas de Ayuda Financiera</a></li>
                         </ul>
@@ -34,12 +36,17 @@
                     	<i class="icon-bars"></i>
                     	</a>
                     	<ul>
-                        	<li><a href="postgrado.php#doctorado">Programas de Doctorado</a></li>
+                        	<!-- Aumentar las paginas con la informacino adecuada -->
+                            <li><a href="postgrado-cochabamba.php">Postgrado Cochabamba</a></li>
+                            <li><a href="postgrado-la-paz.php">Postgrado La Paz</a></li>
+                            <!--
+                            <li><a href="postgrado.php#doctorado">Programas de Doctorado</a></li>
                             <li><a href="postgrado.php#maestrias_t">Maestr&iacute;as a tiempo completo</a></li>
                             <li><a href="postgrado.php#maestrias_t">Maestr&iacute;as ejecutivas</a></li>
                             <li><a href="postgrado.php#diplomados">Diplomados</a></li>
                             <li><a href="plantel_admin.php#admin">Plantel Administrativo</a></li>
                             <li><a href="plantel_admin.php#convenios">Convenios & Financiamiento</a></li>
+                            -->
                             <li><a href="">UPB Virtual</a></li>
                         </ul>
                     </li>

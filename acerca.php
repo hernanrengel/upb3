@@ -54,7 +54,7 @@
                                 <a href=""><li>Sedes</li></a>
                                 <a href=""><li>Organizaci&oacute;n</li></a>
                                 <li onclick="cargar('tmp5.html')">Historia de la UPB</li>
-                                <a href=""><li>Estatutos y Reglamentos</li></a>
+                                <li onclick="cargar('tmp6.html')">Estatutos y Reglamentos</li></a>
                             </ul>
                         </div>
                     </li>

@@ -27,7 +27,7 @@
     <link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.4" media="screen" />
     <style>
         .feed{
-            height: 1700px !important; 
+            height: 1150px !important; 
         }
     </style>   
 </head>
@@ -61,74 +61,12 @@
                     <li><a href="carreras/C9.html">Lic. en Comunicaci&oacute;n</a></li> 
                </ul>
            </li>
-           <li><a href="#">Calendario Acad&eacute;mico<i class="icon-home"></i></a></li>
+           <li><a href="#">Calendario<i class="icon-home"></i></a></li>
       </ul>
     </header>
     <section>
         <div id="feedback" class="feed">
             <div id="publications">
-            <a name="cbba"></a>
-            <div id="title_float_pre">Decanatura de Admisiones y Asuntos Estudiantiles</div>    
-                <div id="grid" style="margin-top: 60px;">
-                    <br>
-                    <br>
-                    <div class="hex" id="hex8">
-                        <a href="#" style="" title="Hexagono" class="bg-dark-green">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                            <span>Oscar Valdivieso Ph.D.</span>
-                            <p>Decano de Admisiones y Asuntos Estudiantiles alejandrozegarra@lp.upb.edu Int. 124 Celular: 791 11032</p>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex7">
-                        <a href="#" style="" title="Hexagono" class="bg-dark-blue">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                            <span>Mgr. Marcelo Quiroga</span>
-                            <p>Directora Asuntos Estudiantiles rebecasarmiento@lp.upb.edu Int. 116</p>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex6">
-                        <a href="#" style="" title="Hexagono" class="bg-light-blue">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                            <span>Geraldine Bravo Coello</span>
-                            <p>Asesora de Admisiones geraldinebravo@lp.upb.edu Int. 132 Celular: 762 00002</p>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex5">
-                        <a href="#" style="" title="Hexagono" class="bg-darken">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                            <span>Mgr. Cecilia Ergueta</span>
-                            <p>Asesora de Admisiones ceciliaergueta@lp.upb.edu Int.131 Celular: 701 01929</p>
-                        </a>
-                    </div>
-                    <div class="hex inf" id="hex9">
-                        <a href="#" style="" title="Hexagono" class="bg-4">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex10">
-                         <a href="#" style="" title="Hexagono"  class="bg-4">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex11">
-                         <a href="#" style="" title="Hexagono"  class="bg-4">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex12">
-                        <a href="#" style="" title="Hexagono" class="bg-4">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                        </a>    
-                    </div>
-                </div>
             <div id="title_float_pre">Decanatura Ciencias Empresariales & Derecho (FACED)</div>
                 <div id="grid" style="margin-top: 60px;">
                     <br>
@@ -265,7 +203,7 @@
                 </ul>
             </div>
             rmio-->	
-      </div> 	
+        </div> 	
         <!-- <div class="line"></div> -->
         <div id="news">
             <div id="social_coments">

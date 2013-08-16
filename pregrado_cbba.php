@@ -27,7 +27,7 @@
     <link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.4" media="screen" />   
     <style>
         .feed{
-            height: 1700px !important; 
+            height: 1150px !important; 
         }
     </style>    
 </head>
@@ -66,74 +66,12 @@
                     <li><a href="carreras/C8.html">Lic. en Arquitectura</a></li> 
                </ul>
            </li>
-           <li><a href="#se">Calendario Acad&eacute;mico<i class="icon-home"></i></a></li>
+           <li><a href="#se">Calendario<i class="icon-home"></i></a></li>
       </ul>
     </header>
     <section>
         <div class="feed" id="feedback">
           <div id="publications">
-            <a name="cbba"></a>
-             <div id="title_float_pre">Decanatura de Admisiones y Asuntos Estudiantiles</div>    
-                <div id="grid" style="margin-top: 60px;">
-                    <br>
-                    <br>
-                    <div class="hex" id="hex8">
-                        <a href="#" style="" title="Hexagono" class="bg-dark-green">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                            <span>Mgr. Gustavo W. Molina Dávalos</span>
-                            <p>Decano de Admisiones y Asuntos Estudiantiles gmolina@upb.edu Int. 255</p>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex7">
-                        <a href="#" style="" title="Hexagono" class="bg-dark-blue">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                            <span>Lic. Karla Gómez Vásquez</span>
-                            <p>Directora de Bienestar Estudiantil klgomez@upb.edu Int. 268</p>
-                        </a>
-                    </div>
-                     <div class="hex" id="hex6">
-                        <a href="#" style="" title="Hexagono" class="bg-light-blue">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                            <span>Mario Lacaze Freire</span>
-                            <p>Asesor de Admisiones mlacaze@upb.edu Int. 224</p>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex5">
-                        <a href="#" style="" title="Hexagono" class="bg-darken">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                            <span>Mgr. Cecilia Ergueta</span>
-                            <p>Asesora de Admisiones ceciliaergueta@lp.upb.edu Int.131 Celular: 701 01929</p>
-                        </a>
-                    </div>
-                    <div class="hex inf" id="hex9">
-                        <a href="#" style="" title="Hexagono" class="bg-4">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex10">
-                         <a href="#" style="" title="Hexagono"  class="bg-4">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex11">
-                         <a href="#" style="" title="Hexagono"  class="bg-4">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                        </a>
-                    </div>
-                    <div class="hex" id="hex12">
-                        <a href="#" style="" title="Hexagono" class="bg-4">
-                            <div class="hex-1"></div>
-                            <div class="hex-2"></div>
-                        </a>    
-                    </div>
-                </div>
             <div id="title_float_pre">Decanatura Ciencias Empresariales & Derecho</div>
                 <div id="grid" style="margin-top: 60px;">
                     <br>

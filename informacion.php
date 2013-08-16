@@ -40,8 +40,74 @@
             <header>
              	<a href="index.php"><div id="logo"></div></a>
             	<?php require_once("menu.php");?>
-            </header>
+            </header> 
             <div id="cuerpo2">
+            <div id="title">Decanatura de Admisiones y Asuntos Estudiantiles</div>
+            <div id="feedback" class="feed" style="margin-left: 18%;">
+                    <div id="publications">
+                    <a name="cbba"></a>    
+                        <div id="grid" style="margin-top: 20px;">
+                        <br>
+                        <br>
+                            <div class="hex" id="hex8">
+                                <a href="#" style="" title="Hexagono" class="bg-dark-green">
+                                    <div class="hex-1"></div>
+                                    <div class="hex-2"></div>
+                                    <span>Oscar Valdivieso Ph.D.</span>
+                                    <p>Decano de Admisiones y Asuntos Estudiantiles alejandrozegarra@lp.upb.edu Int. 124 Celular: 791 11032</p>
+                                </a>
+                            </div>
+                            <div class="hex" id="hex7">
+                                <a href="#" style="" title="Hexagono" class="bg-dark-blue">
+                                    <div class="hex-1"></div>
+                                    <div class="hex-2"></div>
+                                    <span>Mgr. Marcelo Quiroga</span>
+                                    <p>Directora Asuntos Estudiantiles rebecasarmiento@lp.upb.edu Int. 116</p>
+                                </a>
+                            </div>
+                            <div class="hex" id="hex6">
+                                <a href="#" style="" title="Hexagono" class="bg-light-blue">
+                                    <div class="hex-1"></div>
+                                    <div class="hex-2"></div>
+                                    <span>Geraldine Bravo Coello</span>
+                                    <p>Asesora de Admisiones geraldinebravo@lp.upb.edu Int. 132 Celular: 762 00002</p>
+                                </a>
+                            </div>
+                            <div class="hex" id="hex5">
+                                <a href="#" style="" title="Hexagono" class="bg-darken">
+                                    <div class="hex-1"></div>
+                                    <div class="hex-2"></div>
+                                    <span>Mgr. Cecilia Ergueta</span>
+                                    <p>Asesora de Admisiones ceciliaergueta@lp.upb.edu Int.131 Celular: 701 01929</p>
+                                </a>
+                            </div>
+                            <div class="hex inf" id="hex9">
+                                <a href="#" style="" title="Hexagono" class="bg-4">
+                                    <div class="hex-1"></div>
+                                    <div class="hex-2"></div>
+                                </a>
+                            </div>
+                            <div class="hex" id="hex10">
+                                 <a href="#" style="" title="Hexagono"  class="bg-4">
+                                    <div class="hex-1"></div>
+                                    <div class="hex-2"></div>
+                                </a>
+                            </div>
+                            <div class="hex" id="hex11">
+                                 <a href="#" style="" title="Hexagono"  class="bg-4">
+                                    <div class="hex-1"></div>
+                                    <div class="hex-2"></div>
+                                </a>
+                            </div>
+                            <div class="hex" id="hex12">
+                                <a href="#" style="" title="Hexagono" class="bg-4">
+                                    <div class="hex-1"></div>
+                                    <div class="hex-2"></div>
+                                </a>    
+                            </div>
+                        </div>                               
+                    </div>
+                </div>
                 <a name="top"></a>
                 <a name="pa"></a>
                 <div id="title">Inscripci&oacute;n de estudiantes nuevos</div>  
