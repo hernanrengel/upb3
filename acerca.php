@@ -48,13 +48,13 @@
                         <div>
                             <ul>
                                 <li onclick="cargar('tmp1.html')">Bienvenida</li>
-                                <li onclick="cargar('tmp2.html')">Patrocinadores</li>
-                                <li onclick="cargar('tmp3.html')">Directorio</li>
+                                <li onclick="cargar('tmp3.html')">Patrocinadores</li>
+                                <li onclick="cargar('tmp2.html')">Directorio</li>
                                 <li onclick="cargar('tmp4.html')">Filosof&iacute;a Institucional</li>
-                                <li>Sedes</li>
-                                <li>Organizaci&oacute;n</li>
-                                <li>Historia de la UPB</li>
-                                <li>Estatutos y Reglamentos</li>
+                                <a href=""><li>Sedes</li></a>
+                                <a href=""><li>Organizaci&oacute;n</li></a>
+                                <li onclick="cargar('tmp5.html')">Historia de la UPB</li>
+                                <a href=""><li>Estatutos y Reglamentos</li></a>
                             </ul>
                         </div>
                     </li>
@@ -62,12 +62,7 @@
                         <a href="#">Gobierno y Administraci&oacute;n</a>
                          <div>
                             <ul>
-                                <li>Rectorado</li>
-                                <li>Vice Rectorado Administrativo Financiero</li>
-                                <li>Vice Rectorado académico</li>
-                                <li>Decanatos</li>
-                                <li>Jefaturas de Carrera</li>
-                                <li>Departamentos acad&eacute;micos</li>
+                                <a href=""><li>Gobierno y Administraci&oacute;n</li></a>
                             </ul>
                         </div>
                     </li>
@@ -75,10 +70,10 @@
                         <a href="#">Convenios y Membresias</a>
                         <div>
                             <ul>
-                                <li>Membresias</li>
-                                <li>Organizaciones Empresariales</li>
-                                <li>Organizaciones Nacionales</li>
-                                <li>Organizaciones Internacionales</li>
+                                <a href=""><li>Membresias</li></a>
+                                <a href=""><li>Organizaciones Empresariales</li></a>
+                                <a href=""><li>Organizaciones Nacionales</li></a>
+                                <a href=""><li>Organizaciones Internacionales</li></a>
                             </ul>
                         </div>
                     </li>
@@ -86,8 +81,8 @@
                         <a href="#">Acreditaciones y Certificaciones</a>
                         <div>
                             <ul>
-                                <li>Mercosur</li>
-                                <li>TUV - Certificación ISO</li>
+                                <a href=""><li>Mercosur</li></a>
+                                <a href=""><li>TUV - Certificación ISO</li></a>
                             </ul>
                         </div>
                     </li>
@@ -98,6 +93,7 @@
             </div>
                 
         </div>
+        <!--
         <div id="feedback" style="height: 400px !important;">
           <div id="publications">
             <div id="title_float">Decanatura Admisiones y Asuntos Estudiantiles Cochabamba</div>
@@ -135,7 +131,7 @@
                     </div>
                 </div>
             </div>
-            <!--rmio
+            
             <div id="navigation">
                 <ul>
                     <li><span class="left_arrow"></span><i>Bienvenidos a la UPB</i></li>
@@ -145,7 +141,7 @@
                     <li><span class="left_arrow"></span><i>Graduados & Profesionales</i></li>
                 </ul>
             </div>
-            rmio-->	
+            	
         </div>
 
 
@@ -213,7 +209,7 @@
                     </div>
                 </div>
             </div>
-            <!--rmio
+            
             <div id="navigation">
                 <ul>
                     <li><span class="left_arrow"></span><i>Bienvenidos a la UPB</i></li>
@@ -223,13 +219,14 @@
                     <li><span class="left_arrow"></span><i>Graduados & Profesionales</i></li>
                 </ul>
             </div>
-            rmio--> 
+             
         </div>
-
+        
 
    			
         <div id="calendar">
-            <span class="title" id="open_grad">Pr&oacute;ximos Eventos <i class="icon-arrow-down-3"></i></span><br/><br/><br/><br/><br/> 
+            <span class="title" id="open_grad">Ver los Pr&oacute;ximos Eventos <i class="icon-arrow-down-3"></i></span><br/><br/><br/><br/><br/> 
+          Proximos eventos con calendarios    
             <div class="section">
                 <div class="date">
                     <span class="day">13</span>
@@ -246,7 +243,7 @@
                 </div>
                 <p id="carrera">Primera Conferencia de Desarrollo Web</p>
             </div>
-           <div class="section">
+            <div class="section">
                 <div class="date">
                     <span class="day">07</span>
                     <span class="month">Marzo</span>
@@ -254,8 +251,10 @@
                 </div>
                 <p id="carrera">Primera Conferencia de Desarrollo Web</p>
             </div>
+            -->
         </div>
         <!-- <div class="line"></div> -->
+        <!--
         <div id="news">
             <div id="social_coments">
                 <span class="desc">PATROCINADORES</span>
@@ -340,6 +339,7 @@
                 </div>
             </div>
         </div>
+        -->
     </section>
     <?php require_once("footer.php");?>
 	<script  src="js/jquery.js"></script>

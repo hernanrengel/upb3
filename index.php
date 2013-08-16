@@ -27,7 +27,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>
         
         
         <link rel="stylesheet" type="text/css" href="css/jquery.panorama.css" media="screen" />
@@ -45,7 +44,7 @@
             </header>
             <div id="cuerpo">
             	<div id="page">
-          			<img src="img/sculpteur.jpg" class="advancedpanorama" width="2448" height="408" alt="Campus UPB" />
+          			<img src="img/sculpteur.jpg" class="advancedpanorama" width="2448" height="440" alt="Campus UPB" />
                     <map id="testmap" name="testmap"> 
                         <area shape="rect" coords="1653,72,1839,255" href="salleformation.html" alt="" /> 
                         <area shape="rect" coords="2013,114,2091,210" href="img/statue1.jpg" alt="" class="thickbox" /> 

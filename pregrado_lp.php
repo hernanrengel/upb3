@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <!-- <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1"> -->
-    <title>Centro de Postgrado La Paz | Universidad Privada Boliviana</title>
+    <title>Pregrado La Paz | Universidad Privada Boliviana</title>
     <meta name="keywords" content="universidad,universidades,la paz,cochabamba,carreras,pregrado,
         postgrado,Ingeniería Petrolera y Gas Natural,Ingenieria de la Producción,Ingeniería Industrial y de Sistemas,
         Ingeniería Electrónica y Telecomunicaciones,Ingeniería de Sistemas Computacionales,Ingeniería Civil,
@@ -24,7 +24,12 @@
     <link rel="stylesheet" type="text/css" href="css/style.css">
     <link rel="stylesheet" type="text/css" href="css/style_1.css">
     <link rel="stylesheet" type="text/css" href="css/about.css"> 
-    <link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.4" media="screen" />   
+    <link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.4" media="screen" />
+    <style>
+        .feed{
+            height: 1700px !important; 
+        }
+    </style>   
 </head>
 
 <body>
@@ -33,11 +38,11 @@
     	<ul class="nav">
         	<li><a href="#rector">Campus UPB - La Paz<i class="icon-home"></i></a>
             	<ul>
-                	<li><a href="#infra">Infraestructura</a></li>
-                    <li><a href="#ruta">Ruta de Buses</a></li>
+                	<li><a href="infraestructura-la-paz.php">Infraestructura</a></li>
+                    <li><a href="ruta-de-buses-la-paz.php">Ruta de Buses</a></li>
                 </ul>
             </li>
-            <li><a href="#">Facultad de Ingenier&iacute;a<i class="icon-home"></i></a>
+            <li><a href="#">Facultad de Ingenier&iacute;a (FIA)<i class="icon-home"></i></a>
                 <ul>
                     <li><a href="carreras/C2.html">Ing. de Producci&oacute;n</a></li>
                     <li><a href="carreras/C5.html">Ing. de Sistemas Computacionales</a></li>
@@ -45,7 +50,7 @@
                     <li><a href="carreras/C17.html">Ing. de Minas & Metalurgia</a></li>
                 </ul>
             </li>
-            <li><a href="#">Ciencias Empresariales & Derecho<i class="icon-home"></i></a>
+            <li><a href="#">Ciencias Empresariales & Derecho (FACED)<i class="icon-home"></i></a>
                 <ul>
                     <li><a href="carreras/C7.html">Ing. Financiera</a></li>
                     <li><a href="carreras/C13.html">Ing. Comercial</a></li>
@@ -60,10 +65,10 @@
       </ul>
     </header>
     <section>
-        <div id="feedback">
-          <div id="publications">
+        <div id="feedback" class="feed">
+            <div id="publications">
             <a name="cbba"></a>
-            <div id="title_float_pre">Decanatura Ciencias Empresariales</div>
+            <div id="title_float_pre">Decanatura de Admisiones y Asuntos Estudiantiles</div>    
                 <div id="grid" style="margin-top: 60px;">
                     <br>
                     <br>
@@ -100,31 +105,154 @@
                         </a>
                     </div>
                     <div class="hex inf" id="hex9">
-                        <a href="#" style="" title="Hexagono" class="bg-1">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
                             <div class="hex-1"></div>
                             <div class="hex-2"></div>
                         </a>
                     </div>
                     <div class="hex" id="hex10">
-                         <a href="#" style="" title="Hexagono"  class="bg-3">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
                             <div class="hex-1"></div>
                             <div class="hex-2"></div>
                         </a>
                     </div>
                     <div class="hex" id="hex11">
-                         <a href="#" style="" title="Hexagono"  class="bg-2">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
                             <div class="hex-1"></div>
                             <div class="hex-2"></div>
                         </a>
                     </div>
                     <div class="hex" id="hex12">
-                    	<a href="#" style="" title="Hexagono" class="bg-2">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>    
+                    </div>
+                </div>
+            <div id="title_float_pre">Decanatura Ciencias Empresariales & Derecho (FACED)</div>
+                <div id="grid" style="margin-top: 60px;">
+                    <br>
+                    <br>
+                    <div class="hex" id="hex8">
+                        <a href="#" style="" title="Hexagono" class="bg-dark-green">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Oscar Valdivieso Ph.D.</span>
+                            <p>Decano de Admisiones y Asuntos Estudiantiles alejandrozegarra@lp.upb.edu Int. 124 Celular: 791 11032</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex7">
+                        <a href="#" style="" title="Hexagono" class="bg-dark-blue">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mgr. Marcelo Quiroga</span>
+                            <p>Directora Asuntos Estudiantiles rebecasarmiento@lp.upb.edu Int. 116</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex6">
+                        <a href="#" style="" title="Hexagono" class="bg-light-blue">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Geraldine Bravo Coello</span>
+                            <p>Asesora de Admisiones geraldinebravo@lp.upb.edu Int. 132 Celular: 762 00002</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex5">
+                        <a href="#" style="" title="Hexagono" class="bg-darken">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mgr. Cecilia Ergueta</span>
+                            <p>Asesora de Admisiones ceciliaergueta@lp.upb.edu Int.131 Celular: 701 01929</p>
+                        </a>
+                    </div>
+                    <div class="hex inf" id="hex9">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex10">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex11">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex12">
+                    	<a href="#" style="" title="Hexagono" class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>    
+                    </div>
+                </div>
+                <div id="title_float_pre">Decanatura Ingenier&iacute;a (FIA)</div>
+                <div id="grid" style="margin-top: 60px;">
+                    <br>
+                    <br>
+                    <div class="hex" id="hex8">
+                        <a href="#" style="" title="Hexagono" class="bg-dark-green">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Oscar Valdivieso Ph.D.</span>
+                            <p>Decano de Admisiones y Asuntos Estudiantiles alejandrozegarra@lp.upb.edu Int. 124 Celular: 791 11032</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex7">
+                        <a href="#" style="" title="Hexagono" class="bg-dark-blue">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mgr. Marcelo Quiroga</span>
+                            <p>Directora Asuntos Estudiantiles rebecasarmiento@lp.upb.edu Int. 116</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex6">
+                        <a href="#" style="" title="Hexagono" class="bg-light-blue">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Geraldine Bravo Coello</span>
+                            <p>Asesora de Admisiones geraldinebravo@lp.upb.edu Int. 132 Celular: 762 00002</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex5">
+                        <a href="#" style="" title="Hexagono" class="bg-darken">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mgr. Cecilia Ergueta</span>
+                            <p>Asesora de Admisiones ceciliaergueta@lp.upb.edu Int.131 Celular: 701 01929</p>
+                        </a>
+                    </div>
+                    <div class="hex inf" id="hex9">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex10">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex11">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex12">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
                             <div class="hex-1"></div>
                             <div class="hex-2"></div>
                         </a>    
                     </div>
                 </div>                
             </div>
+
             
             <!--rmio
             <div id="navigation">
@@ -137,23 +265,7 @@
                 </ul>
             </div>
             rmio-->	
-	  <a name="ruta"></a>	     
-        <div id="title_float_pre_1">Ruta de Buses UPB - La Paz</div>
-        <div id="box_pre">
-      		<iframe width="580" height="460" src="https://maps.google.es/maps/ms?msa=0&amp;msid=210751482286691460318.0004dd3faedec628e82ec&amp;ie=UTF8&amp;t=m&amp;ll=-17.381049,-66.164035&amp;spn=0.025583,0.04122&amp;output=embed"></iframe>
-            <ul id="bus">
-                <li><a class="fancybox fancybox.ajax" href="buses/bus1.html">Bus 1 Quintanilla</a></li>
-                <li><a class="fancybox fancybox.ajax" href="buses/bus2.html">Bus 2 Am&eacute;rica</a></li>
-                <li><a class="fancybox fancybox.ajax" href="buses/bus3.html">Bus tardes Am&eacute;rica</a></li>
-            </ul>	
-      </div>
-      </div>
-   		
-        <div id="infra">
-        	<a name="infra"></a>
-            <div id="title">Infraestructura</div>
-        	<iframe style="margin-left:25%; border-top-left-radius:15px; border-bottom-right-radius:15px; border:7px #CCCCCC inset;" width="700" height="410" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.es/maps/ms?msa=0&amp;msid=210751482286691460318.0004dd2df2068e7dfb172&amp;ie=UTF8&amp;ll=-16.575361,-68.126759&amp;spn=0.001344,0.000973&amp;t=h&amp;output=embed"></iframe><br />
-        </div>  	
+      </div> 	
         <!-- <div class="line"></div> -->
         <div id="news">
             <div id="social_coments">

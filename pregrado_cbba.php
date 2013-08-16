@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <!-- <meta name="viewport" content="target-densitydpi=device-dpi, width=device-width, initial-scale=1.0, maximum-scale=1"> -->
-    <title>Centro de Postgrado Cochabamba | Universidad Privada Boliviana</title>
+    <title>Pregrado Cochabamba | Universidad Privada Boliviana</title>
     <meta name="keywords" content="universidad,universidades,la paz,cochabamba,carreras,pregrado,
         postgrado,Ingeniería Petrolera y Gas Natural,Ingenieria de la Producción,Ingeniería Industrial y de Sistemas,
         Ingeniería Electrónica y Telecomunicaciones,Ingeniería de Sistemas Computacionales,Ingeniería Civil,
@@ -25,6 +25,11 @@
     <link rel="stylesheet" type="text/css" href="css/style_1.css">
     <link rel="stylesheet" type="text/css" href="css/about.css"> 
     <link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.4" media="screen" />   
+    <style>
+        .feed{
+            height: 1700px !important; 
+        }
+    </style>    
 </head>
 
 <body>
@@ -33,11 +38,11 @@
     	<ul class="nav">
         	<li><a href="#rector">Campus UPB - Cochabamba<i class="icon-home"></i></a>
             	<ul>
-                	<li><a href="#infra">Infraestructura</a></li>
-                    <li><a href="#ruta">Ruta de Buses</a></li>
+                	<li><a href="infraestructura-cochabamba.php">Infraestructura</a></li>
+                    <li><a href="ruta-de-buses-cochabamba.php">Ruta de Buses</a></li>
                 </ul>
             </li>
-            <li><a href="#se">Ciencias Empresariales & Derecho<i class="icon-home"></i></a>
+            <li><a href="#se">Ciencias Empresariales & Derecho (FACED)<i class="icon-home"></i></a>
                 <ul>
                     <li><a href="carreras/C13.html">Ing. Comercial</a></li>
                     <li><a href="carreras/C7.html">Ing. Financiera</a></li>
@@ -49,7 +54,7 @@
                     <li><a href="carreras/C9.html">Lic. en Comunicaci&oacute;n</a></li> 
                </ul>
            </li>
-           <li><a href="#se">Ingenier&iacute;a & Arquitectura<i class="icon-home"></i></a>
+           <li><a href="#se">Ingenier&iacute;a & Arquitectura (FIA)<i class="icon-home"></i></a>
                 <ul>
                     <li><a href="carreras/C16.html">Ing. Electromec&aacute;nica</a></li>
                     <li><a href="carreras/C6.html">Ing. Civil</a></li>
@@ -65,10 +70,71 @@
       </ul>
     </header>
     <section>
-        <div id="feedback">
+        <div class="feed" id="feedback">
           <div id="publications">
             <a name="cbba"></a>
-            <div id="title_float_pre">Decanatura Ciencias Empresariales</div>
+             <div id="title_float_pre">Decanatura de Admisiones y Asuntos Estudiantiles</div>    
+                <div id="grid" style="margin-top: 60px;">
+                    <br>
+                    <br>
+                    <div class="hex" id="hex8">
+                        <a href="#" style="" title="Hexagono" class="bg-dark-green">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mgr. Gustavo W. Molina Dávalos</span>
+                            <p>Decano de Admisiones y Asuntos Estudiantiles gmolina@upb.edu Int. 255</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex7">
+                        <a href="#" style="" title="Hexagono" class="bg-dark-blue">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Lic. Karla Gómez Vásquez</span>
+                            <p>Directora de Bienestar Estudiantil klgomez@upb.edu Int. 268</p>
+                        </a>
+                    </div>
+                     <div class="hex" id="hex6">
+                        <a href="#" style="" title="Hexagono" class="bg-light-blue">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mario Lacaze Freire</span>
+                            <p>Asesor de Admisiones mlacaze@upb.edu Int. 224</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex5">
+                        <a href="#" style="" title="Hexagono" class="bg-darken">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mgr. Cecilia Ergueta</span>
+                            <p>Asesora de Admisiones ceciliaergueta@lp.upb.edu Int.131 Celular: 701 01929</p>
+                        </a>
+                    </div>
+                    <div class="hex inf" id="hex9">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex10">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex11">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex12">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>    
+                    </div>
+                </div>
+            <div id="title_float_pre">Decanatura Ciencias Empresariales & Derecho</div>
                 <div id="grid" style="margin-top: 60px;">
                     <br>
                     <br>
@@ -129,48 +195,70 @@
                         </a>    
                     </div>
                 </div>
+            <div id="title_float_pre">Decanatura Ingenier&iacute;a</div>
+                <div id="grid" style="margin-top: 60px;">
+                    <br>
+                    <br>
+                    <div class="hex" id="hex8">
+                        <a href="#" style="" title="Hexagono" class="bg-dark-green">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mgr. Gustavo W. Molina Dávalos</span>
+                            <p>Decano de Admisiones y Asuntos Estudiantiles gmolina@upb.edu Int. 255</p>
+                        </a>
+                    </div>
+                     <div class="hex" id="hex7">
+                        <a href="#" style="" title="Hexagono" class="bg-dark-blue">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Lic. Karla Gómez Vásquez</span>
+                            <p>Directora de Bienestar Estudiantil klgomez@upb.edu Int. 268</p>
+                        </a>
+                    </div>
+                     <div class="hex" id="hex6">
+                        <a href="#" style="" title="Hexagono" class="bg-light-blue">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mario Lacaze Freire</span>
+                            <p>Asesor de Admisiones mlacaze@upb.edu Int. 224</p>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex5">
+                        <a href="#" style="" title="Hexagono" class="bg-darken">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                            <span>Mgr. Cecilia Ergueta</span>
+                            <p>Asesora de Admisiones ceciliaergueta@lp.upb.edu Int.131 Celular: 701 01929</p>
+                        </a>
+                    </div>
+                    <div class="hex inf" id="hex9">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex10">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex11">
+                         <a href="#" style="" title="Hexagono"  class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>
+                    </div>
+                    <div class="hex" id="hex12">
+                        <a href="#" style="" title="Hexagono" class="bg-4">
+                            <div class="hex-1"></div>
+                            <div class="hex-2"></div>
+                        </a>    
+                    </div>
+                </div>    
             </div>
-
-            <!--rmio
-            <div id="navigation">
-                <ul>
-                    <li><span class="left_arrow"></span><i>Bienvenidos a la UPB</i></li>
-                    <li><span class="left_arrow"></span><i>Futuros Estudiantes</i></li>
-                    <li><span class="left_arrow"></span><i>Estudiantes Regulares</i></li>
-                    <li><span class="left_arrow"></span><i>Facultades & Profesorado</i></li>
-                    <li><span class="left_arrow"></span><i>Graduados & Profesionales</i></li>
-                </ul>
-            </div>
-            rmio-->	
-	  <!--<a name="ruta"></a>-->	     
-      <!-- RUTA DE BUSES
-      <div id="title_float_pre_1">Ruta de Buses UPB - Cochabamba</div>
-      <div id="box_pre">
-      		<img src="images/guiaBusTira.jpg" width="600" height="460"/>
-            <ul id="bus">
-                <li><a class="fancybox fancybox.ajax" href="buses/bus1.html">Bus 1 Quintanilla</a></li>
-                <li><a class="fancybox fancybox.ajax" href="buses/bus2.html">Bus 2 Am&eacute;rica</a></li>
-                <li><a class="fancybox fancybox.ajax" href="buses/bus3.html">Bus tardes Am&eacute;rica</a></li>
-            </ul>	
+     	
       </div>
-      -->
-      <a name="ruta"></a>	     
-        <div id="title_float_pre_1">Ruta de Buses UPB - Cochabamba</div>
-        <div id="box_pre">
-      		<iframe width="580" height="460" src="https://maps.google.es/maps/ms?msa=0&amp;msid=210751482286691460318.0004dd3faedec628e82ec&amp;ie=UTF8&amp;t=m&amp;ll=-17.381049,-66.164035&amp;spn=0.025583,0.04122&amp;output=embed"></iframe>
-            <ul id="bus">
-                <li><a class="fancybox fancybox.ajax" href="buses/bus1.html">Bus 1 Quintanilla</a></li>
-                <li><a class="fancybox fancybox.ajax" href="buses/bus2.html">Bus 2 Am&eacute;rica</a></li>
-                <li><a class="fancybox fancybox.ajax" href="buses/bus3.html">Bus tardes Am&eacute;rica</a></li>
-            </ul>	
-      </div>	
-      </div>
-   		<div id="infra">
-        	<a name="infra"></a>
-            <div id="title">Infraestructura</div>
-            <iframe style="margin-left:25%; border-top-left-radius:15px; border-bottom-right-radius:15px; border:7px #CCCCCC inset;" width="700" height="410" frameborder="0" scrolling="yes" marginheight="0" marginwidth="0" src="https://maps.google.es/maps/ms?msa=0&amp;msid=210751482286691460318.0004dcf0f0b0882c39c66&amp;ie=UTF8&amp;ll=-17.398391,-66.218407&amp;spn=0.000724,0.001644&amp;t=h&amp;output=embed"></iframe><br />
-        </div>	
-      
         <!-- <div class="line"></div> -->
         <div id="news">
             <div id="social_coments">

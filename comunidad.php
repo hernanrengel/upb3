@@ -27,7 +27,6 @@
         <link rel="stylesheet" type="text/css" href="css/layout.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/style_1.css"> 
-        <script src="js/prefixfree.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -38,14 +37,15 @@
             <header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                    <li><a href="#al">Comunidad de Alumnos UPB<i class="icon-home"></i></a></li>
-                    <li><a href="#ex">Comunidad de Exalmunos UPB<i class="icon-home"></i></a></li>
+                    <li><a href="#al">Comunidad de Estudiantes UPB<i class="icon-home"></i></a></li>
+                    <li><a href="#ex">Graduados Pregrado<i class="icon-home"></i></a></li>
+                    <li><a href="#ep">Graduados Postgrado<i class="icon-home"></i></a></li>
                     <li><a href="#ca">Calendario de Pr&oacute;ximos Eventos<i class="icon-home"></i></a></li>                  
                 </ul>
             </header>
             <div id="cuerpo2"> 
                 <a name="al"></a>
-                <div id="title">Alumnos</div>
+                <div id="title">Estudiantes</div>
                 	<div id="box">
 					<div class="carousel" data-role="carousel">
                         <div class="slides">
@@ -92,7 +92,7 @@
                     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
                 </div>
                 <a name="ex"></a>
-                <div id="title">Ex-Alumnos</div>
+                <div id="title">Graduados Pregrado</div>
                 	<div id="box">
 					<div class="carousel" data-role="carousel">
                         <div class="slides">
@@ -138,68 +138,62 @@
                     consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
                     cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
                     proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-                	</div><br><br>
-                    <section>    
-                        <div id="feedback">
-                            <a name="ca"></a>
-                            <div id="calendar">
-                                <span class="title" id="open_grad">Pr&oacute;ximos Eventos Alumnos<i class="icon-arrow-down-3"></i></span><br/><br/><br/><br/><br/> 
-                                <div class="section">
-                                    <div class="date">
-                                        <span class="day">13</span>
-                                        <span class="month">Diciembre</span>
-                                        <span class="year">2013</span>
-                                    </div>
-                                    <p id="carrera">Primera Conferencia de Desarrollo Web</p>
-                                </div>
-                                <div class="section">
-                                    <div class="date">
-                                        <span class="day">05</span>
-                                        <span class="month">Febrero</span>
-                                        <span class="year">2013</span>
-                                    </div>
-                                    <p id="carrera">Primera Conferencia de Desarrollo Web</p>
-                                </div>
-                               <div class="section">
-                                    <div class="date">
-                                        <span class="day">07</span>
-                                        <span class="month">Marzo</span>
-                                        <span class="year">2013</span>
-                                    </div>
-                                    <p id="carrera">Primera Conferencia de Desarrollo Web</p>
+                	</div>
+
+                <a name="ep"></a>
+                <div id="title">Graduados Postgrado</div>
+                    <div id="box">
+                    <div class="carousel" data-role="carousel">
+                        <div class="slides">
+                            <div class="slide image" id="slide1">
+                                <img src="images/nn1.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
                                 </div>
                             </div>
-                            <br/>
-
-                            <a name="ca"></a>
-                            <div id="calendar">
-                                <span class="title" id="open_grad">Pr&oacute;ximos Eventos Exalumnos<i class="icon-arrow-down-3"></i></span><br/><br/><br/><br/><br/> 
-                                <div class="section">
-                                    <div class="date">
-                                        <span class="day">13</span>
-                                        <span class="month">Diciembre</span>
-                                        <span class="year">2013</span>
-                                    </div>
-                                    <p id="carrera">Primera Conferencia de Desarrollo Web</p>
+                            <div class="slide mixed" id="slide2">
+                                <img src="images/nn2.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
                                 </div>
-                                <div class="section">
-                                    <div class="date">
-                                        <span class="day">05</span>
-                                        <span class="month">Febrero</span>
-                                        <span class="year">2013</span>
-                                    </div>
-                                    <p id="carrera">Primera Conferencia de Desarrollo Web</p>
+                            </div>
+                            <div class="slide mixed" id="slide2">
+                                <img src="images/nn1.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
                                 </div>
-                               <div class="section">
-                                    <div class="date">
-                                        <span class="day">07</span>
-                                        <span class="month">Marzo</span>
-                                        <span class="year">2013</span>
-                                    </div>
-                                    <p id="carrera">Primera Conferencia de Desarrollo Web</p>
+                            </div>
+                            <div class="slide mixed" id="slide1">
+                                <img src="images/nn2.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
                                 </div>
                             </div>
                         </div>
+                 
+                        <span class="control left">‹</span>
+                        <span class="control right">›</span>
+                    </div>                   
+                    <p id="carrera">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+
+                    <p id="carrera">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                    consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                    cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                    proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+                    </div><br><br>
+                    <section>    
+                            <a name="ca"></a>
+                            <div id="calendar">
+                                <span class="title" id="open_grad">Pr&oacute;ximos Eventos Estudiantes<i class="icon-arrow-down-3"></i></span><br/><br/><br/><br/><br/>  
+                            </div>
+
                     </section>
                 </div>
                 </div>

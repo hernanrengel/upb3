@@ -42,64 +42,6 @@
             	<?php require_once("menu.php");?>
             </header>
             <div id="cuerpo2">
-                <a name="top"></a>
-                <a name="pa"></a>
-                <div id="title">Inscripci&oacute;n de estudiantes nuevos</div>  
-                <div id="box">
-					<div class="carousel" data-role="carousel">
-                        <div class="slides">
-                            <div class="slide image" id="slide1">
-                                <img src="images/nn1.jpg"/>
-                                <div class="description">
-                                    Texto de muestra...
-                                </div>
-                            </div>
-                            <div class="slide mixed" id="slide2">
-                                <img src="images/nn2.jpg"/>
-                                <div class="description">
-                                    Texto de muestra...
-                                </div>
-                            </div>
-                            <div class="slide mixed" id="slide2">
-                                <img src="images/nn1.jpg"/>
-                                <div class="description">
-                                    Texto de muestra...
-                                </div>
-                            </div>
-                            <div class="slide mixed" id="slide1">
-                                <img src="images/nn2.jpg"/>
-                                <div class="description">
-                                    Texto de muestra...
-                                </div>
-                            </div>
-                        </div>
-                        <span class="control left">‹</span>
-                        <span class="control right">›</span>
- 					</div>                   
-                    <h2>Documentos para la Inscripci&oacute;n</h2>
-                    <p id="carrera">A continiuaci&oacute;n se describen los documentos necesarios para la inscripci&oacute;n</p>
-
-					<p id="carrera">- Diploma de Bachiller (Fotocopia Legalizada). En caso de encontrarse en tr&aacute;mite                   
-                    presentar la boleta de tramite.</p>
-                    <p id="carrera">* Carnet de Identidad (Fotocopia).</p>
-                    <p id="carrera">* Certificado de Nacimiento (Original).</p>
-                    <p id="carrera">* Libreta de 4to de secundaria o Diploma de Egreso del Colegio (Fotocopia).</p>
-                    <p id="carrera">* 2 Fotografias 3 x 4 fondo Azul</p>
-                	<h2>El plazo &uacute;ltimo de entrega del DIPLOMA DE BACHILLER es la Finalizaion del Tercer Modulo</h2>
-                    <h2>Traspasos</h2>
-                    <p id="carrera">En caso de que realices TRASPASO DE OTRA UNIVERSIDAD, juntamente a los requisitos anteriores                    
-                    debes presentar los siguientes documentos:</p>
- 					<p id="carrera">* Carta de solicitud de convalidaci&oacute;n dirigida al rector de Universidad Privada                    
-                    Boliviana, indicando el detalle de materias a convalidar.</p>
-                    <p id="carrera">* Dos (2) juegos de Certificados de Notas Originales con sello seco y firmas correspondientes                    
-                    de la Universidad de Origen.</p>
-                    <p id="carrera">* Programas anal&iacute;ticos de las materias a convalidar debidamente foliados y sellados</p>
-                    <p id="carrera">* Cerificados de Cargas Horarias de las materias cursadas legalizadas por la Universidad de                   
-                    Origen.</p>
-                    <h2>El Plazo de entrega de los DOCUMENTOS DE TRASPASOS es a la finalizaci&oacute;n del tercer M&oacute;dulo,                    
-                    caso contrario el siguiente semestre se te asignaran las materias que se encontraban en proceso de                   
-                    Convalidaci&oacute;n</h2>
-                </div>
                 <div id="title">Programas de idiomas Extranjeros</div>
                 	<div id="box">
 					<div class="carousel" data-role="carousel">

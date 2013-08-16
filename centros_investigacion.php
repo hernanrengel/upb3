@@ -26,7 +26,6 @@
         <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -44,6 +43,46 @@
                 </ul>
             </header>
             <div id="cuerpo2">
+                <div id="title">
+                    Vicerrector de Investigaci&oacute;n
+                </div> 
+                <div id="box">
+                    <div class="carousel" data-role="carousel">
+                        <div class="slides">
+                            <div class="slide image" id="slide1">
+                                <img src="images/nn1.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide2">
+                                <img src="images/nn2.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide2">
+                                <img src="images/nn1.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide1">
+                                <img src="images/nn2.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                        </div>
+                        <span class="control left">‹</span>
+                        <span class="control right">›</span>
+                    </div>                   
+                    <p id="carrera">Hugo Norberto Rojas Salinas</p>
+                    <p id="carrera">Profesor Pleno UPB</p>
+                    <p id="carrera">Correo: <a href="mailto:hrojas@upb.edu">hrojas@upb.edu</a></p>
+                    <p id="carrera">Tel&eacute;: +591 - 4 4268287 - Int. 295</p>
+                    <p id="carrera">Ver Curriculum</p>
+            </div> 
                 <div id="title">
                     Centros de Investigaci&oacute;n
                 </div>  
@@ -78,11 +117,20 @@
                         <span class="control left">‹</span>
                         <span class="control right">›</span>
  					</div>                   
-                    <p id="carrera">Los Centros de Investigación son unidades operativas dependientes del Vicerrectorado de Investigación, 				encargadas de materializar la ejecución de las Áreas Estratégicas de investigación, que son áreas relevantes genéricas del conocimiento, priorizadas por la visión y políticas institucionales, que enlazan la pertinencia institucional y social con el análisis del contexto y que imprimen a la Universidad una identidad académica en el campo de la investigación.</p>
+                    <p id="carrera">Los Centros de Investigación son unidades operativas dependientes 
+                    del Vicerrectorado de Investigación, encargadas de materializar la ejecución de las Áreas 
+                    Estratégicas de investigación, que son áreas relevantes genéricas del conocimiento, priorizadas 
+                    por la visión y políticas institucionales, que enlazan la pertinencia institucional y social 
+                    con el análisis del contexto y que imprimen a la Universidad una identidad académica en el 
+                    campo de la investigación.</p>
 
-                    <p id="carrera">Cada Centro de Investigación tiene a su cargo todos los proyectos relacionados con un área estratégica específica asignada, estructurados dentro de programas y líneas de investigación. Cada Centro de Investigación es conducido por un Director y cuenta con un personal asignado de investigadores, docentes investigadores y estudiantes investigadores.</p>
+                    <p id="carrera">Cada Centro de Investigación tiene a su cargo todos los proyectos relacionados 
+                    con un área estratégica específica asignada, estructurados dentro de programas y líneas de 
+                    investigación. Cada Centro de Investigación es conducido por un Director y cuenta con un personal 
+                    asignado de investigadores, docentes investigadores y estudiantes investigadores.</p>
                      
-                    <p id="carrera">En la actualidad, la Universidad Privada Boliviana cuenta con los siguientes centros de investigación:</p>
+                    <p id="carrera">En la actualidad, la Universidad Privada Boliviana cuenta con los 
+                    siguientes centros de investigación:</p>
                 <div id="caja_inves">
                     <img src="images/inves/CIEE-Logo.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones Económicas y Empresariales – CIEE</a></div>
                 </div>
@@ -107,7 +155,7 @@
                 <div id="caja_inves">
                     <img src="images/inves/CIAU-Logo.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones en Arquitectura y Urbanismo – CIAU</a></div>  
                 </div>
-                </div>      	
+            </div>      	
         </div>
 		<?php require_once("footer.php");?>
         <script src="js/plugins.js"></script>

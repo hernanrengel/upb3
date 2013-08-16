@@ -25,8 +25,7 @@
         <link rel="stylesheet" type="text/css" href="css/style_1.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
-		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>
+
         
         
         <link rel="stylesheet" type="text/css" href="css/jquery.panorama.css" media="screen" />
@@ -42,10 +41,11 @@
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                	<li><a href="#doctorado">Doctorados<i class="icon-home"></i></a></li>
+                	<li><a href="admisiones-postgrado.php">Admisiones<i class="icon-home"></i></a></li>
+                    <li><a href="#doctorado">Doctorados<i class="icon-home"></i></a></li>
                     <li><a href="#maestrias_t">Maestr&iacute;as Ejecutivas<i class="icon-home"></i></a></li>
                     <li><a href="#diplomados">Diplomados<i class="icon-home"></i></a></li>
-                    <li><a href="plantel_admin.php#admin">Plantel Administrativo<i class="icon-home"></i></a></li>
+                    <li><a href="plantel_admin.php#admin">Plantel Postgrado<i class="icon-home"></i></a></li>
                     <li><a href="plantel_admin.php#convenios">Convenios<i class="icon-home"></i></a></li>
                     <li><a href="plantel_admin.php#financiamiento">Financiamiento<i class="icon-home"></i></a></li>
                 </ul>

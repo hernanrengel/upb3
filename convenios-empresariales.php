@@ -24,8 +24,7 @@
         <link rel="stylesheet" type="text/css" href="css/style_1.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
-		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>  
+		<script src="js/vendor/modernizr-2.6.2.min.js"></script> 
         </head>
     <body>
         <!--[if lt IE 7]>
@@ -51,7 +50,7 @@
                     	<div id="log">	
                         	<img src="images/cepb2.jpg" style="padding-left:30px; padding-top:30px;">
                         </div>
-                        <p id="carrera">La CEPB (Confederación de empresarios privados de Bolivia) tiene el objetivo general de promover y participar activamente en el 
+                        <p id="carrera">La CEPB (Confederación de Empresarios Privados de Bolivia) tiene el objetivo general de promover y participar activamente en el 
                         proceso de desarrollo económico y social de Bolivia, sustentando la filosofía de la libre 
                         empresa y la economía de mercado como bases esenciales de dicho proceso.</p>
 
@@ -82,7 +81,7 @@
                         </div>
                         <p id="carrera">FEDERACIÓN DE EMPRESARIOS PRIVADOS DE COCHABAMBA</p>
 
-                        <p id="carrera">FEPC (Federación de entidades empresariales privadas de Cochabamba) La FEPC es una organización 
+                        <p id="carrera">FEPC (Federación de Entidades Empresariales Privadas de Cochabamba) La FEPC es una organización 
                         sin fines de lucro que integra a los distintos gremios empresariales privados del departamento 
                         de Cochabamba. El fin de esta organización es representar y defender los intereses de sus miembros 
                         y de la comunidad empresarial en el ámbito regional, nacional e internacional para promover 

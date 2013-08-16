@@ -50,6 +50,30 @@
             </header>
     	<div id="cuerpo2">
         	<a name="admin"></a>
+            <div id="title">Direcci&oacute;n</div>
+                    <div id="box">     
+                        <div id="rec">    
+                            <div id="feedback">
+                                <div id="publications">
+                                    <div id="grid">
+                                        <div class="hex" id="img_vice">
+                                            <a href="#" style="" title="Hexagono"  class="bg-4">
+                                               <div class="hex-1"></div>
+                                               <div class="hex-2"></div>
+                                            </a>
+                                      </div>  
+                                    </div>
+                                </div>
+                            </div>
+                            <div id="datos">
+                                <h2>Mgr. Ana Karina Gallardo Quiroga</h2>
+                                <h2>Directora General de Administración y Finanzas</h2>
+                                <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
+                                <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
+                                <br/><br/>
+                            </div>
+                        </div>
+                    </div>
             <div id="title">Rectorado</div> 
                 <div id="box">
                 	<div id="rec">
@@ -66,7 +90,7 @@
                             </div>
                         </div>
                         <div id="datos">
-                            <h2>Ph.D. Manuel Olave Sarmiento</h2>
+                            <h2>Manuel Olave Sarmiento Ph.D</h2>
                             <h2>Rector</h2>
                             <p>Datos...</p>
                             <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -87,7 +111,7 @@
                             </div>
                         </div>
                     	<div id="datos">
-                            <h2>Ph.D.c. Alberto Sanjinés Unzueta</h2>
+                            <h2>Alberto Sanjinés Unzueta Ph.D.c</h2>
                             <h2>Vicerrector Académico Campus Cochabamba</h2>
                             <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                             <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -108,7 +132,7 @@
                             </div>
                         </div>    
                         <div id="datos">
-                            <h2>Ph.D. Agustín Iturricha Fernández</h2>
+                            <h2>Agustín Iturricha Fernández Ph.D</h2>
                             <h2>Vicerrector Administrativo Financiero</h2>
                             <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                             <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -129,7 +153,7 @@
                             </div>
                         </div>
                         <div id="datos">
-                            <h2>Ph.D. Oscar Jorge Molina Tejerina</h2>
+                            <h2>Oscar Jorge Molina Tejerina Ph.D</h2>
                             <h2>Vicerrector académico Campus La Paz</h2>
                             <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                             <a href="curriculum.php?ask=8" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -150,7 +174,7 @@
                             </div>
                         </div>   
                         <div id="datos">
-                        	<h2>Ph.D. Mariana Nicoleava Yurevna</h2>
+                        	<h2>Mariana Nicoleava Yurevna Ph.D</h2>
                             <h2>Vicerrectora de Postgrado</h2>
                             <p><a href="mailto:guzman@upb.edu">Datos...<a></p>
                             <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -171,7 +195,7 @@
                             </div>
                         </div>
                         <div id="datos">
-                        	<h2>Ph.D Hugo Rojas Salinas</h2>
+                        	<h2>Hugo Rojas Salinas Ph.D</h2>
                             <h2>Vicerrector de investigación</h2>
                             <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                             <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -195,7 +219,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Mgr. Juan Antonio Fernández León</h2>
+                                <h2>Juan Antonio Fernández León Mgr.</h2>
                                 <h2>Secretario General</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -216,8 +240,8 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Mgr. Carla Reyes Postigo</h2>
-                                <h2>Asesora General de Marketing Institucional</h2>
+                                <h2>Carla Reyes Postigo Mgr. </h2>
+                                <h2>Asesora Principal de Marketing Institucional</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
                                 <br/><br/>
@@ -237,7 +261,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Mrg. Edwin Durán Zurita</h2>
+                                <h2>Edwin Durán Zurita Mrg. </h2>
                                 <h2>Asesor Principal de Desarrollo Universitario</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -261,7 +285,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Ph.D. María Isabel Pueyo Roy</h2>
+                                <h2>María Isabel Pueyo Roy Ph.D</h2>
                                 <h2>Decana de la Facultad de Ciencias</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -282,7 +306,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Ph.D. Pablo Zegarra Saldaña</h2>
+                                <h2>Pablo Zegarra Saldaña Ph.D</h2>
                                 <h2h2>Decano de la Escuela de Graduados</h2h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -303,7 +327,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Ph.D.c. César Villagómez Villaroel</h2>
+                                <h2>César Villagómez Villaroel Ph.D.c</h2>
                                 <h2>Decano de la Facultad de ingenierías</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -324,7 +348,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Ph.D.c. Rosmy Pol Rojas</h2>
+                                <h2>Rosmy Pol Rojas Ph.D.c</h2>
                                 <h2>Decana de Extensión Universitaria</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -345,7 +369,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Ph.D.c. Raúl Barrientos Ferrufino</h2>
+                                <h2>Raúl Barrientos Ferrufino Ph.D.c</h2>
                                 <h2h2>Decano de la Facultad de ingenierías-La Paz</h2h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -366,7 +390,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Ph.D.c. Gabriel Villegas Aldazosa</h2>
+                                <h2>Gabriel Villegas Aldazosa Ph.D.c </h2>
                                 <h2>Decano de la Facultad de Ciencias Empresariales y Derecho - La Paz</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -387,7 +411,7 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Mrg. Oscar Valdivieso Taborga</h2>
+                                <h2>Oscar Valdivieso Taborga Mrg. </h2>
                                 <h2>Decano de Admisiones y Asuntos Estudiantiles Cochabamba</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
@@ -408,38 +432,14 @@
                                 </div>
                             </div>
                             <div id="datos">
-                                <h2>Mrg. Gustavo Molina Dávalos</h2>
+                                <h2>Gustavo Molina Dávalos Mrg.</h2>
                                 <h2>Decano de Admisiones y Asuntos Estudiantiles La Paz</h2>
                                 <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
                                 <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
                                 <br/><br/>
                             </div>
                         </div>
-                    </div>        
-                <div id="title">Direcci&oacute;n</div>
-                    <div id="box">     
-                        <div id="rec">    
-                            <div id="feedback">
-                                <div id="publications">
-                                    <div id="grid">
-                                        <div class="hex" id="img_vice">
-                                            <a href="#" style="" title="Hexagono"  class="bg-4">
-                                               <div class="hex-1"></div>
-                                               <div class="hex-2"></div>
-                                            </a>
-                                      </div>  
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="datos">
-                                <h2>Mgr. Ana Karina Gallardo Quiroga</h2>
-                                <h2>Directora General de Administración y Finanzas</h2>
-                                <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
-                                <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
-                                <br/><br/>
-                            </div>
-                        </div>
-                    </div>    
+                    </div>            
                 </div>              
             </div>
         </div>

@@ -57,17 +57,8 @@
                     <span class="conb">La Paz: admisiones@lp.upb.edu</span>
                     </p>
                 </div>
-                <div id="box">                       
-                    <span id="tt">Cr&eacute;dito educativo UPB </span>
-                    <p id="carrera">
-                    Beneficia a estudiantes de buen  rendimiento académico y que tengan necesidades económicas. 
-                    Contempla hasta un total de la colegiatura a partir del primer semestre.
-                    <span class="conb">Cochabamba: admisiones@upb.edu </span>
-                    <span class="conb">La Paz: admisiones@lp.upb.edu</span>
-                    </p>
-                </div>
                 <div id="box">                  
-                    <span id="tt">Bono de oportunidad educativa (BOE) </span>
+                    <span id="tt">BOE</span>
                     <p id="carrera">
                     Permite a los estudiantes o a sus familias, depositar un monto de dinero en la UPB por el cual
                     se reconoce una tasa preferencial que servirá para cubrir el valor de la colegiatura.
@@ -131,6 +122,15 @@
                     Si dos o más hermanos se encuentran inscritos simultáneamente se beneficiarán con descuentos
                     entre 10% y 25% de la colegiatura.
                     <span class="conb">Cochabamba: admisiones@upb.edu </span>    
+                    <span class="conb">La Paz: admisiones@lp.upb.edu</span>
+                    </p>
+                </div>
+                 <div id="box">                       
+                    <span id="tt">Beca Interior </span>
+                    <p id="carrera">
+                    Apoyo a estudiantes del interior del pais en la que se otorga el 10% adicional a 
+                    cualquier apoyo financiero ya recibido.
+                    <span class="conb">Cochabamba: admisiones@upb.edu </span>
                     <span class="conb">La Paz: admisiones@lp.upb.edu</span>
                     </p>
                 </div>

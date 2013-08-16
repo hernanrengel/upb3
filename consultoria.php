@@ -32,7 +32,7 @@
         <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>
+
     </head>
     <body>
         <!--[if lt IE 7]>

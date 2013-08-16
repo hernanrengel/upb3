@@ -38,12 +38,9 @@
                 	<li><a href="#rector">&iquest;Qu&eacute; es la UPB?<i class="icon-home"></i></a></li>
                     <li><a href="#se">Gobierno y Administraci&oacute;n<i class="icon-home"></i></a>
                     	<ul>
-                            <li><a href="senado.php">Senado Universitario</a></li>
+                            <li><a href="directorio.php">Directorio</a></li>
                             <li><a href="#rector">Rector</a></li>
-                            <li><a href="#se">Secretar&iacute;a General</a></li>
-                            <li><a href="#apdu">Asesor Principal de Desarrollo Universitario</a></li>
-                            <li><a href="#se">Asesor Principal Planificación y Evaluación</a></li>
-                            <li><a href="#apmi">Asesor Principal Marketing Institucional</a></li>
+                            <li><a href="senado.php">Senado Universitario</a></li>
                         </ul>
                     </li>
                     <li><a href="convenios.php">Convenios & Membres&iacute;as<i class="icon-home"></i></a></li>

@@ -27,7 +27,6 @@
         <link rel="stylesheet" type="text/css" href="css/layout.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/style_1.css"> 
-        <script src="js/prefixfree.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>

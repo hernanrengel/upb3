@@ -83,17 +83,10 @@
                 break;
         } 
         ?></title>
-        <meta name="description" content="">
         <meta name="viewport" content="width=device-width">
         <link type="text/css" href="../css/jquery.jscrollpane.css" rel="stylesheet" media="all" />
         <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css' />
         <link rel="stylesheet" type="text/css" href="../css/fonts.css">
-        <link rel="stylesheet" type="text/css" href="../css/normalize.css">
-        <link rel="stylesheet" type="text/css" href="../css/fonts.css">
-        <link rel="stylesheet" type="text/css" href="../css/layout_2.css">
-        <link rel="stylesheet" type="text/css" href="../css/style.css">
-        <link rel="stylesheet" type="text/css" href="../css/about.css"> 
-        <link rel="stylesheet" type="text/css" href="../source/jquery.fancybox.css?v=2.1.4" media="screen" />
         
         <?php switch ($id) {
             case '1':
@@ -152,9 +145,11 @@
                 break;
         } 
         ?>   
-		<script src="../js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="../js/prefixfree.min.js"></script>
+
         <style>
+            a{
+                text-decoration: none;
+            }
             p
                 {
                     font-size:1.1em !important; 
@@ -176,7 +171,7 @@
              	<a href="../index.php"><div id="logo"></div></a>
             	<ul class="nav">
                 	<li><a href="../cbba.php">UPB Cochabamba<i class="icon-home"></i></a></li>
-                    <li><a href="#se">Ciencias Empresariales & Derecho<i class="icon-home"></i></a>
+                    <li><a href="#se">Ciencias Empresariales & Derecho (FACED)<i class="icon-home"></i></a>
                         <ul>
                             <li><a href="C13.html">Ing. Comercial</a></li>
                             <li><a href="C7.html">Ing. Financiera</a></li>
@@ -188,7 +183,7 @@
                             <li><a href="C9.html">Lic. en Comunicaci&oacute;n</a></li> 
                         </ul>
                     </li>
-                    <li><a href="#se">Ingenier&iacute;a & Arquitectura<i class="icon-home"></i></a>
+                    <li><a href="#se">Ingenier&iacute;a & Arquitectura (FIA)<i class="icon-home"></i></a>
                         <ul>
                             <li><a href="C16.hmtl">Ing. Electromec&aacute;nica</a></li>
                             <li><a href="C6.html">Ing. Civil</a></li>
@@ -205,7 +200,7 @@
             </header>
             <div id="cuerpo2"> 
                 <?php while ($reg=mysql_fetch_array($res)) { ?>
-                <div id="title">Direcci&oacute;n de Carrera - <?php echo utf8_encode($reg['carrera']); ?></div>
+                <div id="title">Jefatura de Carrera - <?php echo utf8_encode($reg['carrera']); ?></div>
                 <div id="box">
                     <div class="carousel" data-role="carousel">
                         <div class="slides">
@@ -270,7 +265,8 @@
                 </div>
                 <div id="title">&Aacute;reas de Trabajo</div>
                 <div id="box">                  
-                    <?php echo utf8_encode($reg['areas']); ?>  	
+                    <?php echo utf8_encode($reg['areas']); ?>
+                    <div id="descarga"><a href="../informacion.php">Admisiones</a></div>  	
                     <div id="descarga"><a target="_blank" href='<?php switch ($id) {
                     case '1':
                         echo "../mallas/Ingeniería Petrolera y Gas Natural.pdf";
@@ -330,86 +326,44 @@
             </div>
         </div>
 		<footer>
-           <ul id="dirC">
-                <li><span id="dir">Campus Cochabamba</span></li>
-                <li><span id="dir">Direcci&oacute;n: </span><span id="nomD">Av. Capit&aacute;n Victor Ust&aacute;riz km 6 1/2</span></li>
-                <li><span id="dir">Correo: </span><span id="nomD">
-                <a id="nomDA" href="mailto:admisionescbba@upb.edu?subject='Consulta'">admisionescbba@upb.edu</a></span></li>
-                <li><span id="dir">Tel&eacute;fono: </span><span id="nomD">(591)44375638</span></li> 
-           </ul>
-           <ul id="dirL">
-                <li><span id="dir">Campus La Paz</span></li>
-                <li><span id="dir">Direcci&oacute;n: </span><span id="nomD">Camino Achokalla Km. 3.5</span></li>
-                <li><span id="dir">Correo: </span><span id="nomD">
-                <a id="nomDA" href="mailto:admisioneslp@upb.edu?subject='Consulta'">admisioneslp@upb.edu</a></span></li>
-                <li><span id="dir">Tel&eacute;fono: </span><span id="nomD">(591)22165700 Int.: 131 - 132</span></li> 
-           </ul>
-           <div id="soc">
-                <ul id="social">
-                    <a href=""><img src="../images/t.png" width="55" height="55"></a>
-                    <a href=""><img src="../images/f.png" width="55" height="55"></a>
-                    <a href=""><img src="../images/g.png" width="55" height="55"></a>
-                </ul>
-            </div>
+          <ul id="dirC">
+            <li><span id="dir">Campus Cochabamba</span></li>
+            <li><span id="dir">Direcci&oacute;n: </span><span id="nomD">Av. Capit&aacute;n Victor Ust&aacute;riz km 6 1/2</span></li>
+            <li><span id="dir">Tel&eacute;fono: </span><span id="nomD">+591 - 4 4375638</span></li> 
+          </ul>
+          <ul id="dirL">
+              <li><span id="dir">Campus La Paz</span></li>
+              <li><span id="dir">Direcci&oacute;n: </span><span id="nomD">Camino Achokalla Km. 3.5</span></li>
+              <li><span id="dir">Tel&eacute;fono: </span><span id="nomD">+591 - 2 2165700 </span></li> 
+          </ul>
+          <div id="soc">
             <div id="google_translate_element"></div>
-            <script type="text/javascript">
-                function googleTranslateElementInit() {
-                  new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages: 'en,es,pt', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
-                }
-            </script>
-            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+            <ul id="social">
+              <a href=""><img src="../images/t.png" width="20" height="20"></a>
+              <a href=""><img src="../images/f.png" width="20" height="20"></a>
+              <a href=""><img src="../images/g.png" width="20" height="20"></a>
+            </ul>
+          </div>
+          <script type="text/javascript">
+            function googleTranslateElementInit() {
+            new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages: 'en,es,pt', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+          }
+        </script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
         </footer>
-        <script src="js/plugins.js"></script>
-        <script src="js/main.js"></script>
+        
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
         <script src="../js/carousel.js"></script>
-        <script type="text/javascript" src="../js/jquery.panorama.js"></script>
-        <script type="text/javascript" src="../js/cvi_text_lib.js"></script>
-        <script type="text/javascript" src="../js/jquery.advanced-panorama.js"></script>
-        <script type="text/javascript" src="../js/jquery.flipv.js"></script>
         <script type="text/javascript" src="../js/jquery.fancybox-1.3.1.pack.js"></script>
         <script type="text/javascript" src="../js/libs/jquery.mousewheel.js"></script>
         <script type="text/javascript" src="../js/libs/jquery.jscrollpane.min.js"></script>
 
         <script  src="js/jquery.js"></script>
         <script type="text/javascript" src="../js/mustache.js"></script>
-        <script type="text/javascript" src="../js/easing.js"></script>
-        <script type="text/javascript" src="../js/carousel.js"></script>
-        <script type="text/javascript" src="../js/accordion.js"></script>
+    
         <script type="text/javascript" src="../js/fronty.js"></script>
         <script type="text/javascript" src="../js/about.js"></script>
         <script type="text/javascript" src="../source/jquery.fancybox.js?v=2.1.4"></script>
         <script type="text/javascript" src="../js/fancy_box.js"></script>         
-
-        <!--menues-->
-        <script src="../js/jquery.dlmenu.js"></script>
-        <script src="../js/pagetransitions.js"></script>
-        <!--menues-end-->
-        <script type="text/javascript">
-            $(document).ready(function(){
-                $("img.advancedpanorama").panorama({
-                            auto_start: 0,
-                            start_position: 1527
-                     });
-                 $('.thickbox').fancybox();
-            });
-        </script>
-        <script>
-            $(document).ready(function(){
-                $('#cuerpo2').jScrollPane({
-                    horizontalGutter:5,
-                    verticalGutter:5,
-                    'showArrows': false
-                });
-                
-                $('.jspDrag').hide();
-                $('.jspScrollable').mouseenter(function(){
-                    $('.jspDrag').stop(true, true).fadeIn('slow');
-                });
-                $('.jspScrollable').mouseleave(function(){
-                    $('.jspDrag').stop(true, true).fadeOut('slow');
-                });
-             });
-        </script>
     </body>
 </html>
