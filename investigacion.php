@@ -26,7 +26,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>
         
         
         <link rel="stylesheet" type="text/css" href="css/jquery.panorama.css" media="screen" />
@@ -42,39 +41,68 @@
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                	<li><a href="vicerrectorado.php">Vicerrectorado<i class="icon-home"></i></a></li>
-                    <li><a href="centros_investigacion.php">Centros de Investigaci&oacute;n<i class="icon-home"></i></a></li>
-                    <li><a href="">Revista Investigaci&oacute;n & Desarrollo<i class="icon-home"></i></a></li>
-                    <li><a href="publicaciones.php">Publicaciones<i class="icon-home"></i></a></li>      
+                	<li><a href="">Art&iacute;culos</a></li>   
+                    <li><a href="">Comit&oacute; Editor</a></li> 
+                    <li><a href="">Revistas Anteriores</a></li>
+                    <li><a href="">Gu&iacute;a para Presentaci&oacute;n de Art&iacute;culos</a></li>
+                    <li><a href="">Solicitud de Art&iacute;culos</a></li>   
+
+                    <!--
+                    <li><a href="vicerrectorado.php">Vicerrectorado</a></li>
+                    <li><a href="centros_investigacion.php">Centros de Investigaci&oacute;n</a></li>
+                    <li><a href="">Revista Investigaci&oacute;n & Desarrollo</a></li>
+                    <li><a href="publicaciones.php">Publicaciones</a></li>      
+                    -->
                 </ul>
-    </header>
+            </header>
             <div id="cuerpo2">
             	<div id="title">Investigaci&oacute;n</div> 
                 <div id="box">
-                	<p id="carrera">La Misión de la Universidad Privada Boliviana destaca claramente la investigación científica y aplicada como actividad fundamental de su que hacer cotidiano, rescatando el papel de locus del conocimiento de la Universidad.</p>
+                	<p id="carrera">La Misión de la Universidad Privada Boliviana destaca claramente la investigación 
+                    científica y aplicada como actividad fundamental de su que hacer cotidiano, rescatando el papel de 
+                    locus del conocimiento de la Universidad.</p>
 
-<p id="carrera">El Decanato de Investigación, dependiente del Vicerrectorado Académico, es la instancia encargada de implementar las políticas institucionales de investigación derivadas de esta Misión, las mismas que se traducen en los siguientes objetivos del Decanato:</p>
+                    <p id="carrera">El Decanato de Investigación, dependiente del Vicerrectorado Académico, 
+                    es la instancia encargada de implementar las políticas institucionales de investigación 
+                    derivadas de esta Misión, las mismas que se traducen en los siguientes objetivos del Decanato:</p>
 					<ul id="l">
     					<li>
-    						<p id="carrera">Desarrollar la investigación como <em><strong id="b">función esencial</strong></em> de la Universidad, con fines académicos y de interacción con el entorno, estrechamente vinculada con las funciones de enseñanza, aprendizaje y extensión y en procura de llegar a construir una <em><strong id="b">competencia distintiva institucional</strong></em> en este campo.</p>
+    						<p id="carrera">Desarrollar la investigación como <em>
+                            <strong id="b">función esencial</strong></em> de la Universidad, con fines académicos y de 
+                            interacción con el entorno, estrechamente vinculada con las funciones de enseñanza, 
+                            aprendizaje y extensión y en procura de llegar a construir una 
+                            <em><strong id="b">competencia distintiva institucional</strong></em> en este campo.</p>
     					</li>
    						 <li>
-    						<p id="carrera">Destacar las actividades de investigación por su <em><strong id="b">calidad</strong></em>, su <em><strong id="b">pertinencia</strong></em> tanto interna como externa, su <em><strong>continuidad</strong></em> en el mediano y largo plazo y su <em><strong id="b">sostenibilidad</strong></em> científica y económica.</p>
+    						<p id="carrera">Destacar las actividades de investigación por su 
+                            <em><strong id="b">calidad</strong></em>, su <em><strong id="b">pertinencia</strong></em> 
+                            tanto interna como externa, su <em><strong>continuidad</strong></em> en el mediano y largo 
+                            plazo y su <em><strong id="b">sostenibilidad</strong></em> científica y económica.</p>
    						</li>
     					<li>
-    						<p id="carrera">Enfocar fuertemente la investigación en las más altas <em>prioridades externas</em> compatibles con los programas de formación existentes o a ofrecerse en el futuro</p>
+    						<p id="carrera">Enfocar fuertemente la investigación en las más altas <em>prioridades 
+                            externas</em> compatibles con los programas de formación existentes o a ofrecerse en el 
+                            futuro</p>
     					</li>
     					<li>
-    						<p id="carrera">Introducir apropiadamente a la investigación en el ámbito de los <em><strong id="b">diseños curriculares</strong></em>, tanto en pregrado como en postgrado, como un medio imprescindible para alcanzar calidad en los procesos de aprendizaje, en los estudiantes graduados y en los servicios a la comunidad.</p>
+    						<p id="carrera">Introducir apropiadamente a la investigación en el ámbito de los 
+                            <em><strong id="b">diseños curriculares</strong></em>, tanto en pregrado como en 
+                            postgrado, como un medio imprescindible para alcanzar calidad en los procesos de 
+                            aprendizaje, en los estudiantes graduados y en los servicios a la comunidad.</p>
     					</li>
     					<li>
-    						<p id="carrera"><strong id="b"><em>Coordinar / Integrar </em></strong>apropiadamente los procesos de <em>enseñanza de pregrado y postgrado, la investigación</em> y la prestación de servicios especializados al interior de la estructura universitaria.</p>
+    						<p id="carrera"><strong id="b"><em>Coordinar / Integrar </em></strong>apropiadamente 
+                            los procesos de <em>enseñanza de pregrado y postgrado, la investigación</em> y la 
+                            prestación de servicios especializados al interior de la estructura universitaria.</p>
     					</li>
     					<li>
-    						<p id="carrera">Establecer un Sistema de Gestión del Desempeño de la Investigación, para medir, evaluar, gestionar y mejorar los procesos de investigación en todas las instancias académicas de la Universidad.</p>
+    						<p id="carrera">Establecer un Sistema de Gestión del Desempeño de la Investigación, 
+                            para medir, evaluar, gestionar y mejorar los procesos de investigación en todas las 
+                            instancias académicas de la Universidad.</p>
     					</li>
     					<li>
-    						<p id="carrera">Establecer una <em><strong id="b">capacidad universitaria de contraparte</strong></em> para proyectos de cooperación internacional.</p>
+    						<p id="carrera">Establecer una <em><strong id="b">capacidad universitaria de 
+                            contraparte</strong></em> para proyectos de cooperación internacional.</p>
    						</li>
 					</ul>
                 </div>

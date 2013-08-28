@@ -24,9 +24,23 @@
         <meta name="viewport" content="width=device-width">
         <link rel="stylesheet" type="text/css" href="css/normalize.css">
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
-        <link rel="stylesheet" type="text/css" href="css/layout.css">
+        <link rel="stylesheet" type="text/css" href="css/layout_2.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="css/style_1.css"> 
+        <link rel="stylesheet" type="text/css" href="css/style_1.css">
+        <link rel="stylesheet" type="text/css" href="css/about.css"> 
+        <link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.4" media="screen" /> 
+        <style>
+            #datos a{
+                text-decoration: none;
+                color: #FFFFFF;
+                font-size: 1.2em;
+                text-decoration: none;
+                transition: all 300ms linear;
+            }
+            #datos a:hover{
+                font-weight: 800;
+            }
+        </style>  
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -39,73 +53,74 @@
         <div id="contenedor">
             <header>
              	<a href="index.php"><div id="logo"></div></a>
-            	<?php require_once("menu.php");?>
+            	<ul class="nav">
+                    <li><a class="mn" href="">Con&oacute;cenos</a></li>
+                    <li><a class="mn" href="">Proceso de Admisi&oacute;n</a></li>
+                    <li><a class="mn" href="">Cursos Preuniversitarios</a></li>
+                    <li><a class="mn" href="">Programas de Ayuda Financiera</a></li>
+                    <li><a class="mn" href="">Bienestar Estudiantil</a></li>   
+                </ul>
             </header> 
             <div id="cuerpo2">
-            <div id="title">Decanatura de Admisiones y Asuntos Estudiantiles</div>
-            <div id="feedback" class="feed" style="margin-left: 18%;">
-                    <div id="publications">
-                    <a name="cbba"></a>    
-                        <div id="grid" style="margin-top: 20px;">
-                        <br>
-                        <br>
-                            <div class="hex" id="hex8">
-                                <a href="#" style="" title="Hexagono" class="bg-dark-green">
-                                    <div class="hex-1"></div>
-                                    <div class="hex-2"></div>
-                                    <span>Oscar Valdivieso Ph.D.</span>
-                                    <p>Decano de Admisiones y Asuntos Estudiantiles alejandrozegarra@lp.upb.edu Int. 124 Celular: 791 11032</p>
-                                </a>
+                <div id="title">Informaci&oacute;n de Contacto</div>
+                <div id="box">
+                    <h2>Mgr. MBA. Juan Pablo Córdova Oliveira.</h2>
+                    <div id="datos" style="padding-left: 40px;">
+                        <p>Mail: <a href="mailto:jcordova@cbba.upb.edu">jcordova@cbba.upb.edu</a></p>
+                        <p>Telf: +591 - 4 4268287</p>
+                    </div> 
+                    <h2>Lic. Carlos Eduardo Monasterios Prudencio.</h2>
+                    <div id="datos" style="padding-left: 40px;">
+                        <p>Mail: <a href="mailto:cmonasterios@cbba.upb.edu">cmonasterios@cbba.upb.edu</a></p>
+                        <p>Telf: + 591 - 2 165700</p>
+                    </div>
+                </div>
+                <div id="title">Decanatura de Admisiones y Asuntos Estudiantiles - Cochabamba</div>
+                <div id="box">     
+                    <div id="rec">    
+                        <div id="feedback">
+                            <div id="publications">
+                                <div id="grid">
+                                    <div class="hex" id="img_vice">
+                                        <a href="#" style="" title="Hexagono"  class="bg-4">
+                                            <div class="hex-1"></div>
+                                            <div class="hex-2"></div>
+                                        </a>
+                                    </div>  
+                                </div>
                             </div>
-                            <div class="hex" id="hex7">
-                                <a href="#" style="" title="Hexagono" class="bg-dark-blue">
-                                    <div class="hex-1"></div>
-                                    <div class="hex-2"></div>
-                                    <span>Mgr. Marcelo Quiroga</span>
-                                    <p>Directora Asuntos Estudiantiles rebecasarmiento@lp.upb.edu Int. 116</p>
-                                </a>
+                        </div>
+                        <div id="datos">
+                            <h2>Oscar Valdivieso Taborga, Mgr.</h2>
+                            <h2>EDUCACIÓN</h2>
+                            <p><a href="mailto:ovaldivieso@upb.edu">ovaldivieso@upb.edu</a></p>
+                            <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
+                            <br/><br/>
+                        </div>
+                    </div>
+                </div>
+                <div id="title">Decanatura de Admisiones y Asuntos Estudiantiles - La Paz</div>
+                <div id="box">     
+                    <div id="rec">    
+                        <div id="feedback">
+                            <div id="publications">
+                                <div id="grid">
+                                    <div class="hex" id="img_vice">
+                                        <a href="#" style="" title="Hexagono"  class="bg-4">
+                                            <div class="hex-1"></div>
+                                            <div class="hex-2"></div>
+                                        </a>
+                                    </div>  
+                                </div>
                             </div>
-                            <div class="hex" id="hex6">
-                                <a href="#" style="" title="Hexagono" class="bg-light-blue">
-                                    <div class="hex-1"></div>
-                                    <div class="hex-2"></div>
-                                    <span>Geraldine Bravo Coello</span>
-                                    <p>Asesora de Admisiones geraldinebravo@lp.upb.edu Int. 132 Celular: 762 00002</p>
-                                </a>
-                            </div>
-                            <div class="hex" id="hex5">
-                                <a href="#" style="" title="Hexagono" class="bg-darken">
-                                    <div class="hex-1"></div>
-                                    <div class="hex-2"></div>
-                                    <span>Mgr. Cecilia Ergueta</span>
-                                    <p>Asesora de Admisiones ceciliaergueta@lp.upb.edu Int.131 Celular: 701 01929</p>
-                                </a>
-                            </div>
-                            <div class="hex inf" id="hex9">
-                                <a href="#" style="" title="Hexagono" class="bg-4">
-                                    <div class="hex-1"></div>
-                                    <div class="hex-2"></div>
-                                </a>
-                            </div>
-                            <div class="hex" id="hex10">
-                                 <a href="#" style="" title="Hexagono"  class="bg-4">
-                                    <div class="hex-1"></div>
-                                    <div class="hex-2"></div>
-                                </a>
-                            </div>
-                            <div class="hex" id="hex11">
-                                 <a href="#" style="" title="Hexagono"  class="bg-4">
-                                    <div class="hex-1"></div>
-                                    <div class="hex-2"></div>
-                                </a>
-                            </div>
-                            <div class="hex" id="hex12">
-                                <a href="#" style="" title="Hexagono" class="bg-4">
-                                    <div class="hex-1"></div>
-                                    <div class="hex-2"></div>
-                                </a>    
-                            </div>
-                        </div>                               
+                        </div>
+                        <div id="datos">
+                            <h2>Gustavo Molina D&aacute;valos</h2>
+                            <h2>EDUCACIÓN</h2>
+                            <p><a href="mailto:gmolina@upb.edu">gmolina@upb.edu</a></p>
+                            <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
+                            <br/><br/>
+                        </div>
                     </div>
                 </div>
                 <a name="top"></a>
@@ -204,15 +219,131 @@
                     deber&aacute;s cursar las matarias o redir examen de suficiencia - incluso por cetificaci&oacute;n externa -                    
                     pagando los cr&eacute;ditos correspondientes a las matarias de idiomas de las que obtuviste sificiencia</p>
                 	</div>
+                    <div id="title">Requisitos de Admisi&oacute;n</div>  
+                <div id="box">
+                    <div class="carousel" data-role="carousel">
+                        <div class="slides">
+                            <div class="slide image" id="slide1">
+                                <img src="images/nn1.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide2">
+                                <img src="images/nn2.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide2">
+                                <img src="images/nn1.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide1">
+                                <img src="images/nn2.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                        </div>
+                        <span class="control left">‹</span>
+                        <span class="control right">›</span>
+                    </div>                   
+                    <h2>PAA: Prueba de Aptitud Acad&eacute;mica</h2>
+                    <p id="carrera">Mide el grado de desarrollo de Aptitudes verbales, matem&aacute;ticas y de redacci&oacute;n.                    Sus resultados permiten anticipar el desempeño del estudiante en la universidad. Puntaje minimo de ingrso:                    1050 sobre 1600 puntos. Inversion: Bs. 120<br/><br/><br/></p>
+                </div>
+                <div id="title">Requisitos de Nivelaci&oacute;n Acad&eacute;mica</div>
+                    <div id="box">
+                    <div class="carousel" data-role="carousel">
+                        <div class="slides">
+                            <div class="slide image" id="slide1">
+                                <img src="images/nn1.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide2">
+                                <img src="images/nn2.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide2">
+                                <img src="images/nn1.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                            <div class="slide mixed" id="slide1">
+                                <img src="images/nn2.jpg"/>
+                                <div class="description">
+                                    Texto de muestra...
+                                </div>
+                            </div>
+                        </div>
+                        <span class="control left">‹</span>
+                        <span class="control right">›</span>
+                    </div>                   
+                    <h2>Examen de Ingles (ELASH - Sistema de Evaluaci&oacute;n de la lengua inglesa para Hispanos)</h2>
+                    <p id="carrera">Permite asignar al estudiante los cursos requeridos para desarrollar el apredizaje del idioma       
+                    Ingl&eacute;s. Los estudiantes con nivel avanzado podr&aacute;n presentar las pruebas de ingl&eacute;s TOEFL  
+                    o SAT para poder ser eximidos. Prueba opcional. Inversi&oacute;n: Bs. 120</p>
+                    <h2>Examen de Conocimientos</h2>
+                    <p id="carrera">Mide conocimientos espec&iacute;ficos de asignaturas necesarias para iniciar la carrera                    
+                    elegida. Los estudiantes que obtengan notas superiores a 60 sobre 100 puntos (en cada metaria) quedan eximidos                    
+                    de cursar el Preuniversitario. Inversi&oacute;n: Sin Costo</p>
+                    <span id="tt">Materias evaluadas en el Examen de Conocimientos:</span><br/><br/><br/>
+                    <div id="serv_int">
+                    <div id="title_int">Facultad de Ingenier&iacute;as & Arquitectura</div>
+                        <ul id="serv_li_int">
+                            <li>Matem&aacute;ticas</li>
+                            <li>Qu&iacute;mica</li>
+                            <li>F&iacute;sica</li>
+                        </ul>
+                    </div>
+                    <div id="serv_int">
+                    <div id="title_int">Facultad de Ciencias Empresariales & Derecho</div>
+                        <ul id="serv_li_int">
+                            <li>Matem&aacute;ticas (no aplica para las Carreras de Derecho y Comunicaci&oacute;n)</li>
+                        </ul>
+                    </div>
+                    <span id="tt">Curso Preuniversitario:</span><br/>
+                    <p id="carrera">Curso de reforzamiento en materias b&aacute;sicas dirigido a quienes no lograron superar o no                                           tomaron el examen de conocimientos</p>
+                    <table id="convenio" width="895">
+                            <tr>
+                                <td align="center"><h3>Materias</h3></td>
+                                <td align="center"><h3>inversi&oacute;n</h3></td>
+                            </tr> 
+                            <tr id="r">
+                                <td>Introducci&oacute;n a la Matem&aacute;tica</td>
+                                <td>Bs. 480.-</td>
+                            </tr>
+                            <tr id="r">
+                                <td>Introducci&oacute;n a la Qu&iacute;mica</td>
+                                <td>Bs. 240.-</td>
+                            </tr>
+                            <tr id="r">
+                                <td>Introducci&oacute;n a la F&iacute;sica</td>
+                                <td>Bs. 240.-</td>
+                            </tr>
+                        </table>
+                    </div>
+                </div>
                  </div>
                 </div>
             </div>
         </div>
 		<?php require_once("footer.php");?>
         <script  src="js/jquery.js"></script>
-		<script type="text/javascript" src="js/mustache.js"></script>
+        <script type="text/javascript" src="js/mustache.js"></script>
         <script type="text/javascript" src="js/easing.js"></script>
         <script type="text/javascript" src="js/carousel.js"></script>
+        <script type="text/javascript" src="js/accordion.js"></script>
         <script type="text/javascript" src="js/fronty.js"></script>
+        <script type="text/javascript" src="js/about.js"></script>
+        <script type="text/javascript" src="source/jquery.fancybox.js?v=2.1.4"></script>
+        <script type="text/javascript" src="js/fancy_box.js"></script> 
     </body>
 </html>

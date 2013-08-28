@@ -26,7 +26,8 @@
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
         <link rel="stylesheet" type="text/css" href="css/layout.css">
         <link rel="stylesheet" type="text/css" href="css/style.css">
-        <link rel="stylesheet" type="text/css" href="css/style_1.css">   
+        <link rel="stylesheet" type="text/css" href="css/style_1.css">  
+        <link rel="stylesheet" type="text/css" href="source/jquery.fancybox.css?v=2.1.4" media="screen" />  
         </head>
     <body>
         <!--[if lt IE 7]>
@@ -37,18 +38,16 @@
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                	<li><a href="pregrado_cbba.php">UPB Cochabamba<i class="icon-home"></i></a></li>
-                    <li><a href="carrera.php">Facultad de Ingenier&iacute;a<i class="icon-home"></i></a></li>
-                    <li><a href="carrera.php">Facultad de Ciencias Empresariales & Derecho<i class="icon-home"></i></a></li>
-                    <li><a href="">Calendario Acad&eacute;mico<i class="icon-home"></i></a></li>                  
+                    <li><a href="vicerrectorado.php">Vicerrectorado<i class="icon-home"></i></a></li>
+                    <li><a href="centros_investigacion.php">Centros de Investigaci&oacute;n<i class="icon-home"></i></a></li>
+                    <li><a href="">Revista Investigaci&oacute;n & Desarrollo<i class="icon-home"></i></a></li>
+                    <li><a href="publicaciones.php">Publicaciones<i class="icon-home"></i></a></li>      
                 </ul>
             </header>
             <div id="cuerpo2">
-                <div id="title">
-                    Vicerrectorado
-                </div>  
+                <div id="title">Vicerrectorado</div>  
                 <div id="box">
-					<div id="vice">	
+					<div id="rec">	
                     	<div id="feedback">
             				<div id="publications">
                 				<div id="grid">
@@ -63,28 +62,8 @@
                         </div>
 						<div id="datos">	
                             <h2>Hugo Norberto Rojas Salinas</h2>
-                            <p id="carrera">Profesor Pleno - UPB</p>
-                            <p id="carrera">hrojas@upb.edu</p>
-                            <p id="carrera">+591 (4) 42 68287 - Int. 295</p>
-                        </div>
-                        <div id="txt_vice">
-							<p id="carrera">Estudios</p>
-                            <p id="carrera">Post-doctorado en Física (University of Cambridge, Inglaterra, 1992-1994)
-                            Docteur es Sciences mención en Física (Université de Genève, Suiza)
-                            Diplôme en Física-Matemática (Université de Genève, Suiza)</p>
-                            
-                            <p id="carrera">Especialidad</p>
-                            <p id="carrera">Realizó sus estudios universitarios de pregrado en física-matemática en la Universidad de 
-                            Ginebra-Suiza y obtuvo su doctorado en la misma universidad en el área de física del estado 
-                            sólido. Posteriormente, trabajo durante dos años en la Universidad de Cambridge-Inglaterra en 
-                            calidad de Posdoctoral Research Associate.
-                            Tiene publicaciones en revista indexadas de física y ha participado en calidad de expositor y 
-                            expositor invitado en congresos internacionales de Estados Unidos y Europa.
-                            Ha trabajado como Asistente de Cátedra en la Universidad de Ginebra-Suiza y como docente 
-                            invitado en varias universidades bolivianas. Trabaja en la Universidad Privada Boliviana desde 
-                            el año 1998 y ha ocupado los cargos de Jefe del Dpto. de Ciencias Exactas, Decano de Posgrado 
-                            y Decano de Investigación. Actualmente, es Docente Pleno de esta universidad y ocupa el cargo 
-                            de Vicerrector de Investigación.</p>
+                            <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
+                            <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
                         </div>
  					</div>                   
                     <p id="carrera">La Misión de la Universidad Privada Boliviana destaca claramente la investigación 
@@ -123,9 +102,13 @@
         </div>
 		<?php require_once("footer.php");?>
         <script  src="js/jquery.js"></script>
-		<script type="text/javascript" src="js/mustache.js"></script>
+        <script type="text/javascript" src="js/mustache.js"></script>
         <script type="text/javascript" src="js/easing.js"></script>
         <script type="text/javascript" src="js/carousel.js"></script>
-        <script type="text/javascript" src="js/fronty.js"></script>      
+        <script type="text/javascript" src="js/accordion.js"></script>
+        <script type="text/javascript" src="js/fronty.js"></script>
+        <script type="text/javascript" src="js/about.js"></script>
+        <script type="text/javascript" src="source/jquery.fancybox.js?v=2.1.4"></script>
+        <script type="text/javascript" src="js/fancy_box.js"></script>         
     </body>
 </html>

@@ -151,7 +151,7 @@
                                 <td>Bs. 240.-</td>
                             </tr>
                     	</table>
-                 </div>
+                    </div>
                 </div>
             </div>
         </div>

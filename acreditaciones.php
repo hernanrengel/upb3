@@ -55,6 +55,7 @@
                     de Ingeniería Civil. Esta acreditación abrió la posibilidad de realizar intercambios 
                     académicos entre los países integrantes de este acuerdo regional.</p>
                 </div>
+                <a mame="#certificaciones"></a>
                 <div id="title">Certificaciones</div>  
                 <div id="box">
 					<div class="carousel" data-role="carousel">

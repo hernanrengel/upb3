@@ -25,7 +25,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>  
         </head>
     <body>
         <!--[if lt IE 7]>
@@ -42,7 +41,7 @@
                     <div class="carousel" data-role="carousel">
                         <div class="slides">
                             <div class="slide image" id="slide1">
-                                <img src="images/nn1.jpg"/>
+                                <img src="images/bolsa-de-trabajo/pacena.jpg"/>
                                 <div class="description">
                                     Texto de muestra...
                                 </div>
@@ -58,15 +57,15 @@
                     Dolor, soluta laudantium omnis aliquid quasi! Iusto, ad, ipsum ipsam aperiam dignissimos 
                     pariatur totam ut iure vero eos quibusdam magni praesentium molestias quae reiciendis facilis 
                     </p> 
-                    <span class="conb">Cochabamba: admisiones@upb.edu</span>
-                    <span class="conb">&Aacute;rea: Industrial</span>
+                    <p id="carrera"><a href="mailto:bolsadetrabajo@upb.edu">bolsadetrabajo@upb.edu</a></p>
+                    <p id="carrera" style="padding-left: 40px;">&Aacute;rea: Industrial</p>
                     </p>
                 </div>
                 <div id="box">
                     <div class="carousel" data-role="carousel">
                         <div class="slides">
                             <div class="slide image" id="slide1">
-                                <img src="images/nn1.jpg"/>
+                                <img src="images/bolsa-de-trabajo/pacena.jpg"/>
                                 <div class="description">
                                     Texto de muestra...
                                 </div>
@@ -82,8 +81,8 @@
                     Dolor, soluta laudantium omnis aliquid quasi! Iusto, ad, ipsum ipsam aperiam dignissimos 
                     pariatur totam ut iure vero eos quibusdam magni praesentium molestias quae reiciendis facilis 
                     </p> 
-                    <span class="conb">Cochabamba: admisiones@upb.edu</span>
-                    <span class="conb">&Aacute;rea: Industrial</span>
+                    <p id="carrera"><a href="mailto:bolsadetrabajo@upb.edu">bolsadetrabajo@upb.edu</a></p>
+                    <p id="carrera" style="padding-left: 40px;">&Aacute;rea: Industrial</p>
                     </p>
                 </div>
                 <div id="title">Bolsa de Trabajo La Paz</div>  
@@ -91,7 +90,7 @@
                     <div class="carousel" data-role="carousel">
                         <div class="slides">
                             <div class="slide image" id="slide1">
-                                <img src="images/nn1.jpg"/>
+                                <img src="images/bolsa-de-trabajo/pacena.jpg"/>
                                 <div class="description">
                                     Texto de muestra...
                                 </div>
@@ -107,8 +106,8 @@
                     Dolor, soluta laudantium omnis aliquid quasi! Iusto, ad, ipsum ipsam aperiam dignissimos 
                     pariatur totam ut iure vero eos quibusdam magni praesentium molestias quae reiciendis facilis 
                     </p> 
-                    <span class="conb">Cochabamba: admisiones@upb.edu</span>
-                    <span class="conb">&Aacute;rea: Industrial</span>
+                    <p id="carrera"><a href="mailto:bolsadetrabajo@upb.edu">bolsadetrabajo@upb.edu</a></p>
+                    <p id="carrera" style="padding-left: 40px;">&Aacute;rea: Industrial</p>
                     </p>    
                 </p>
                 </div>
@@ -116,7 +115,7 @@
                     <div class="carousel" data-role="carousel">
                         <div class="slides">
                             <div class="slide image" id="slide1">
-                                <img src="images/nn1.jpg"/>
+                                <img src="images/bolsa-de-trabajo/pacena.jpg"/>
                                 <div class="description">
                                     Texto de muestra...
                                 </div>
@@ -132,8 +131,8 @@
                     Dolor, soluta laudantium omnis aliquid quasi! Iusto, ad, ipsum ipsam aperiam dignissimos 
                     pariatur totam ut iure vero eos quibusdam magni praesentium molestias quae reiciendis facilis 
                     </p> 
-                    <span class="conb">Cochabamba: admisiones@upb.edu</span>
-                    <span class="conb">&Aacute;rea: Industrial</span>
+                    <p id="carrera"><a href="mailto:bolsadetrabajo@upb.edu">bolsadetrabajo@upb.edu</a></p>
+                    <p id="carrera" style="padding-left: 40px;">&Aacute;rea: Industrial</p>
                     </p>
                 </div>
             </div>                

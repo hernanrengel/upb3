@@ -44,12 +44,12 @@
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                	<li><a href="postgrado.php#doctorado">Doctorados<i class="icon-home"></i></a></li>
-                    <li><a href="postgrado.php#maestrias_t">Maestrias<i class="icon-home"></i></a></li>
-                    <li><a href="postgrado.php#maestrias_e">Maestrias Ejecutivas<i class="icon-home"></i></a></li>
-                    <li><a href="postgrado.php#diplomados">Diplomados<i class="icon-home"></i></a></li>
-                    <li><a href="convenios.php">Convenios<i class="icon-home"></i></a></li>
-                    <li><a href="financiamiento-postgrado.php">Financiamiento<i class="icon-home"></i></a></li>        
+                    <li><a href="index.php">Inicio UPB<i class="icon-home"></i></a></li>
+                    <li><a href="#rector">&iquest;Qu&eacute; es la UPB?<i class="icon-home"></i></a></li>
+                    <li><a href="directorio.php">Directorio<i class="icon-home"></i></a></li>
+                    <li><a href="gobierno.php">Rectorado<i class="icon-home"></i></a></li>
+                    <li><a href="senado.php">Senado Universitario<i class="icon-home"></i></a></li>
+                    <li><a href="filosofia-institucional.php">Filosof&iacute;a Institucional<i class="icon-home"></i></a></li>
                 </ul>
             </header>
     	<div id="cuerpo2">

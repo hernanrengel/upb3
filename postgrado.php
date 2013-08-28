@@ -40,15 +40,7 @@
         <div id="contenedor">
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
-            	<ul class="nav">
-                	<li><a href="admisiones-postgrado.php">Admisiones<i class="icon-home"></i></a></li>
-                    <li><a href="#doctorado">Doctorados<i class="icon-home"></i></a></li>
-                    <li><a href="#maestrias_t">Maestr&iacute;as Ejecutivas<i class="icon-home"></i></a></li>
-                    <li><a href="#diplomados">Diplomados<i class="icon-home"></i></a></li>
-                    <li><a href="plantel_admin.php#admin">Plantel Postgrado<i class="icon-home"></i></a></li>
-                    <li><a href="plantel_admin.php#convenios">Convenios<i class="icon-home"></i></a></li>
-                    <li><a href="plantel_admin.php#financiamiento">Financiamiento<i class="icon-home"></i></a></li>
-                </ul>
+            	<?php require_once("menu-postgrado.php"); ?>
             </header>
             <div id="cuerpo2">
             	<a name="doctorado"></a>
@@ -187,9 +179,9 @@
         <script type="text/javascript">
         $(document).ready(function(){
             $("img.advancedpanorama").panorama({
-                        auto_start: 0,
-                		start_position: 1527
-                 });
+                auto_start: 0,
+                start_position: 1527
+            });
         });
         </script>
         <script type="text/javascript" src="js/cvi_text_lib.js"></script>

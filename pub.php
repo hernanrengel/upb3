@@ -44,9 +44,7 @@
                 </ul>
             </header>
             <div id="cuerpo2">
-                <div id="title">
-                    Publicaciones
-              </div>  
+                <div id="title">Publicaciones</div>  
                 <div id="box">
                   <p id="carrera">Los proyectos y trabajos que el CIEE realiza se plasman en Artículos y Documentos de Trabajo, cuya publicación y divulgación constituyen parte central de sus actividades.</p>
                 <div id="c_p">

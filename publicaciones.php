@@ -26,7 +26,6 @@
         <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
 		<script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -37,10 +36,10 @@
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                	<li><a href="vicerrectorado.php">Vicerrectorado<i class="icon-home"></i></a></li>
-                    <li><a href="centros_investigacion.php">Centros de Investigacion<i class="icon-home"></i></a></li>
-                    <li><a href="">Revista Investigacion & Desarrollo<i class="icon-home"></i></a></li>
-                    <li><a href="publicaciones.php">Publicaciones<i class="icon-home"></i></a></li>                  
+                	<li><a href="vicerrectorado.php">Vicerrectorado</a></li>
+                    <li><a href="centros_investigacion.php">Centros de Investigacion</a></li>
+                    <li><a href="">Revista Investigacion & Desarrollo</a></li>
+                    <li><a href="publicaciones.php">Publicaciones</a></li>                  
                 </ul>
             </header>
             <div id="cuerpo2">
@@ -106,27 +105,7 @@
                 </div>
                 </div>      	
         </div>
-		<footer>
-           <ul id="dirC">
-                <li><span id="dir">Campus Cochabamba</span></li>
-                <li><span id="dir">Direccion: </span><span id="nomD">Calacoto calle 18</span></li>
-                <li><span id="dir">Correo: </span><span id="nomD">admin@upb.edu</span></li>
-                <li><span id="dir">Tel&eacute;fono: </span><span id="nomD">800104542</span></li> 
-           </ul>
-           <ul id="dirL">
-              	<li><span id="dir">Campus La Paz</span></li>
-                <li><span id="dir">Direccion: </span><span id="nomD">Calacoto calle 18</span></li>
-                <li><span id="dir">Correo: </span><span id="nomD">admin@upb.edu</span></li>
-                <li><span id="dir">Tel&eacute;fono: </span><span id="nomD">800104542</span></li> 
-           </ul>
-           <div id="soc">
-                <ul id="social">
-                    <a href=""><img src="images/t.png" width="55" height="55"></a>
-                    <a href=""><img src="images/f.png" width="55" height="55"></a>
-                    <a href=""><img src="images/g.png" width="55" height="55"></a>
-                </ul>
-            </div>
-        </footer>
+		<?php require_once("footer.php"); ?>
         <script src="js/plugins.js"></script>
         <script src="js/main.js"></script>
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>

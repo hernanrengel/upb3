@@ -51,8 +51,10 @@
                                 <li onclick="cargar('tmp3.html')">Patrocinadores</li>
                                 <li onclick="cargar('tmp2.html')">Directorio</li>
                                 <li onclick="cargar('tmp4.html')">Filosof&iacute;a Institucional</li>
+                                <!--
                                 <a href=""><li>Sedes</li></a>
                                 <a href=""><li>Organizaci&oacute;n</li></a>
+                                -->
                                 <li onclick="cargar('tmp5.html')">Historia de la UPB</li>
                                 <li onclick="cargar('tmp6.html')">Estatutos y Reglamentos</li></a>
                             </ul>
@@ -62,7 +64,7 @@
                         <a href="#">Gobierno y Administraci&oacute;n</a>
                          <div>
                             <ul>
-                                <a href=""><li>Gobierno y Administraci&oacute;n</li></a>
+                                <a href="gobierno.php"><li>Gobierno y Administraci&oacute;n</li></a>
                             </ul>
                         </div>
                     </li>
@@ -70,10 +72,10 @@
                         <a href="#">Convenios y Membresias</a>
                         <div>
                             <ul>
-                                <a href=""><li>Membresias</li></a>
-                                <a href=""><li>Organizaciones Empresariales</li></a>
-                                <a href=""><li>Organizaciones Nacionales</li></a>
-                                <a href=""><li>Organizaciones Internacionales</li></a>
+                                <a href="convenios.php"><li>Membresias</li></a>
+                                <a href="convenios-empresariales.php"><li>Organizaciones Empresariales</li></a>
+                                <a href="convenios-nacionales.php"><li>Organizaciones Nacionales</li></a>
+                                <a href="convenios-internacionales.php"><li>Organizaciones Internacionales</li></a>
                             </ul>
                         </div>
                     </li>
@@ -81,14 +83,14 @@
                         <a href="#">Acreditaciones y Certificaciones</a>
                         <div>
                             <ul>
-                                <a href=""><li>Mercosur</li></a>
-                                <a href=""><li>TUV - Certificación ISO</li></a>
+                                <a href="acreditaciones.php"><li>Mercosur</li></a>
+                                <a href="acreditaciones.php#certificaciones"><li>TUV - Certificación ISO</li></a>
                             </ul>
                         </div>
                     </li>
                 </ul>
             </div>
-      <div id="content-about">
+        <div id="content-about">
                 
             </div>
                 

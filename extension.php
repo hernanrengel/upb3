@@ -31,7 +31,6 @@
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="stylesheet" type="text/css" href="css/fonts.css">
         <script src="js/vendor/modernizr-2.6.2.min.js"></script>
-        <script src="js/prefixfree.min.js"></script>   
     </head>
     <body>
         <!--[if lt IE 7]>
@@ -42,15 +41,42 @@
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                    <li><a href="#area">&Aacute;reas de Capacitaci&oacute;n<i class="icon-home"></i></a></li>
-                    <li><a href="#continua">Formaci&oacute;n Continua<i class="icon-home"></i></a></li>
-                    <li><a target="_blank" href="https://sistemas.upb.edu/">Intranet<i class="icon-home"></i></a></li>
+                    <li><a href="">Diplomados</a></li>
+                    <li><a href="">Cursos de Expertos</a></li>
+                    <li><a href="">Cursos de Formaci&oacute;n Cont&iacute;nua</a></li>
+                    <li><a href="">Programas PyMes</a></li>
+                    <!--
+                    <li><a href="areas-de-capacitacion.php">&Aacute;reas de Capacitaci&oacute;n<i class="icon-home"></i></a></li>
+                    <li><a href="formacion-continua.php">Formaci&oacute;n Continua<i class="icon-home"></i></a></li>
+                    <li><a href="#">Diplomados T&eacute;cnicos<i class="icon-home"></i></a></li>
                     <li><a href="servicios.php#servicio">Nuestros Sevicios<i class="icon-home"></i></a></li>
-                    <li><a href="servicios.php#becas">Becas FEPC<i class="icon-home"></i></a></li>
-                    <li><a target="_blank" href="http://extension.upb.edu/">Extensi&oacute;n<i class="icon-home"></i></a></li>                  
+                    <li><a href="becas-servicios.php">Becas FEPC<i class="icon-home"></i></a></li>                  
+                    -->
                 </ul>
             </header>
             <div id="cuerpo2">
+                <div id="title">Decano de Extension Universitaria</div>
+                <div id="box">
+                    <div id="rec">  
+                        <div id="feedback">
+                            <div id="publications">
+                                <div id="grid">
+                                    <div class="hex" id="img_vice">
+                                        <a href="#" style="" title="Hexagono"  class="bg-4">
+                                        <div class="hex-1"></div>
+                                        <div class="hex-2"></div>
+                                        </a>
+                                    </div>  
+                                </div>
+                            </div>
+                        </div>
+                        <div id="datos">    
+                            <h2>Rosmy Pol Rojas Ph.D.c</h2>
+                            <p><a href="mailto:guzman@upb.edu">Datos...</a></p>
+                            <a href="curriculum.php?ask=0" class="fancybox fancybox.ajax">Ver Curriculum</a>
+                        </div>
+                    </div> 
+                </div>
                 <a name="acerca"></a>
                 <div id="title">Extensi&oacute;n Universitaria</div>  
                 <div id="box">

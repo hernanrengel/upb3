@@ -49,9 +49,9 @@
                 	<img id="flag" src="images/flags/united_states_of_america_usa.png"><h2>Estados Unidos</h2><br/>
                     	<table id="convenio" width="895">
                             <tr>
-                              <td colspan="2" align="center"><h3>Institucion</h3></td>
+                              <td colspan="2" align="center"><h3>Instituci&oacute;n</h3></td>
                                 <td align="center"><h3>Tipo de Convenio</h3></td>
-                                <td align="center"><h3>Areas de Aplicaci&oacute;n</h3></td>
+                                <td align="center"><h3>&Aacute;reas de Aplicaci&oacute;n</h3></td>
                                 <td align="center"><h3>Objeto del Convenio</h3></td>
                             </tr>
                             <tr id="r">
@@ -67,7 +67,7 @@
                                 <td><a target="_blank" href="http://www.fiu.edu/" id="lnk">Florida International 
                                 University</a></td>
                                 <td>Intercambio Académico</td>
-                                <td>Areas de interés mutuo</td>
+                                <td>&Aacute;reas de interés mutuo</td>
                                 <td>Intercambio de profesores, alumnos e investigación conjunta</td>
                             </tr>
                             <tr id="r">
@@ -81,7 +81,7 @@
                               <td><a target="_blank" href="http://www.unm.edu/"><img src="images/convenios/unm_logo.jpg" width="62" height="90"></a></td>
                                 <td><a target="_blank" href="http://www.unm.edu/" id="lnk">The University of New Mexico</a></td>
                                 <td>Colaboración Académica</td>
-                                <td>Areas de interés mutuo</td>
+                                <td>&Aacute;reas de interés mutuo</td>
                                 <td>Proyectos de investigación conjuntos / Organización de atividades académicas
                                 / Intercambio de investigadores, profesores y alumnos / Intercambio de publicaciones 
                                 / Intercambio de actividades culturales</td>
@@ -106,9 +106,9 @@
                 	<img id="flag" src="images/flags/austria.png"><h2>Austria</h2><br/>
                     	<table id="convenio" width="895">
                             <tr>
-                              <td colspan="2" align="center"><h3>Institucion</h3></td>
+                              <td colspan="2" align="center"><h3>Instituci&oacute;n</h3></td>
                                 <td align="center"><h3>Tipo de Convenio</h3></td>
-                                <td align="center"><h3>Areas de Aplicaci&oacute;n</h3></td>
+                                <td align="center"><h3>&Aacute;reas de Aplicaci&oacute;n</h3></td>
                                 <td align="center"><h3>Objeto del Convenio</h3></td>
                             </tr>
                             <tr id="r">
@@ -123,9 +123,9 @@
                 	<img id="flag" src="images/flags/spain.png"><h2>Espa&ntilde;a</h2><br/>
                     	<table id="convenio" width="895">
                             <tr>
-                              <td colspan="2" align="center"><h3>Institucion</h3></td>
+                              <td colspan="2" align="center"><h3>Instituci&oacute;n</h3></td>
                                 <td align="center"><h3>Tipo de Convenio</h3></td>
-                                <td align="center"><h3>Areas de Aplicaci&oacute;n</h3></td>
+                                <td align="center"><h3>&Aacute;reas de Aplicaci&oacute;n</h3></td>
                                 <td align="center"><h3>Objeto del Convenio</h3></td>
                             </tr>
                             <tr id="r">
@@ -163,9 +163,9 @@
                 	<img id="flag" src="images/flags/chile.png"><h2>Chile</h2><br/>
                     	<table id="convenio" width="895">
                             <tr>
-                              <td colspan="2" align="center"><h3>Institucion</h3></td>
+                              <td colspan="2" align="center"><h3>Instituci&oacute;n</h3></td>
                                 <td align="center"><h3>Tipo de Convenio</h3></td>
-                                <td align="center"><h3>Areas de Aplicaci&oacute;n</h3></td>
+                                <td align="center"><h3>&Aacute;reas de Aplicaci&oacute;n</h3></td>
                                 <td align="center"><h3>Objeto del Convenio</h3></td>
                             </tr>
                             <tr id="r">
@@ -204,9 +204,9 @@
                 	<img id="flag" src="images/flags/colombia.png"><h2>Colombia</h2><br/>
                     	<table id="convenio" width="895">
                             <tr>
-                              <td colspan="2" align="center"><h3>Institucion</h3></td>
+                              <td colspan="2" align="center"><h3>Instituci&oacute;n</h3></td>
                                 <td align="center"><h3>Tipo de Convenio</h3></td>
-                                <td align="center"><h3>Areas de Aplicaci&oacute;n</h3></td>
+                                <td align="center"><h3>&Aacute;reas de Aplicaci&oacute;n</h3></td>
                                 <td align="center"><h3>Objeto del Convenio</h3></td>
                             </tr> 
                             <tr id="r">
@@ -228,9 +228,9 @@
                 	<img id="flag" src="images/flags/costa_rica.png"><h2>Costa Rica</h2><br/>
                     	<table id="convenio" width="895">
                             <tr>
-                              <td colspan="2" align="center"><h3>Institucion</h3></td>
+                              <td colspan="2" align="center"><h3>Instituci&oacute;n</h3></td>
                                 <td align="center"><h3>Tipo de Convenio</h3></td>
-                                <td align="center"><h3>Areas de Aplicaci&oacute;n</h3></td>
+                                <td align="center"><h3>&Aacute;reas de Aplicaci&oacute;n</h3></td>
                                 <td align="center"><h3>Objeto del Convenio</h3></td>
                             </tr> 
                             <tr id="r">
@@ -254,9 +254,9 @@
                 	<img id="flag" src="images/flags/mexico.png"><h2>Mexico</h2><br/>
                     	<table id="convenio" width="895">
                             <tr>
-                              <td colspan="2" align="center"><h3>Institucion</h3></td>
+                              <td colspan="2" align="center"><h3>Instituci&oacute;n</h3></td>
                                 <td align="center"><h3>Tipo de Convenio</h3></td>
-                                <td align="center"><h3>Areas de Aplicaci&oacute;n</h3></td>
+                                <td align="center"><h3>&Aacute;reas de Aplicaci&oacute;n</h3></td>
                                 <td align="center"><h3>Objeto del Convenio</h3></td>
                             </tr>
                             <tr id="r">
@@ -278,9 +278,9 @@
                 	<img id="flag" src="images/flags/venezuela.png"><h2>Venezuela</h2><br/>
                     	<table id="convenio" width="895">
                             <tr>
-                              <td colspan="2" align="center"><h3>Institucion</h3></td>
+                              <td colspan="2" align="center"><h3>Instituci&oacute;n</h3></td>
                                 <td align="center"><h3>Tipo de Convenio</h3></td>
-                                <td align="center"><h3>Areas de Aplicaci&oacute;n</h3></td>
+                                <td align="center"><h3>&Aacute;reas de Aplicaci&oacute;n</h3></td>
                                 <td align="center"><h3>Objeto del Convenio</h3></td>
                             </tr>	
                             <tr>

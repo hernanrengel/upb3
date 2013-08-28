@@ -67,12 +67,11 @@
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                	<li><a href="postgrado.php#doctorado">Doctorados<i class="icon-home"></i></a></li>
-                    <li><a href="postgrado.php#maestrias_t">Maestrias<i class="icon-home"></i></a></li>
-                    <li><a href="postgrado.php#maestrias_e">Maestrias Ejecutivas<i class="icon-home"></i></a></li>
-                    <li><a href="postgrado.php#diplomados">Diplomados<i class="icon-home"></i></a></li>
-                    <li><a href="convenios.php">Convenios<i class="icon-home"></i></a></li>
-                    <li><a href="financiamiento-postgrado.php">Financiamiento<i class="icon-home"></i></a></li>        
+                    <li><a href="">Estudiantes</a></li>
+                    <li><a href="">Docentes</a></li>
+                    <li><a href="">Padres de Familia</a></li>
+                    <li><a href="">Administrativos</a></li>
+                    <li><a href="">UPB | Virtual</a></li>   
                 </ul>
             </header>
     	       <div id="cuerpo2">

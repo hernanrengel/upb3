@@ -42,47 +42,7 @@
                     <li><a href="publicaciones.php">Publicaciones<i class="icon-home"></i></a></li>      
                 </ul>
             </header>
-            <div id="cuerpo2">
-                <div id="title">
-                    Vicerrector de Investigaci&oacute;n
-                </div> 
-                <div id="box">
-                    <div class="carousel" data-role="carousel">
-                        <div class="slides">
-                            <div class="slide image" id="slide1">
-                                <img src="images/nn1.jpg"/>
-                                <div class="description">
-                                    Texto de muestra...
-                                </div>
-                            </div>
-                            <div class="slide mixed" id="slide2">
-                                <img src="images/nn2.jpg"/>
-                                <div class="description">
-                                    Texto de muestra...
-                                </div>
-                            </div>
-                            <div class="slide mixed" id="slide2">
-                                <img src="images/nn1.jpg"/>
-                                <div class="description">
-                                    Texto de muestra...
-                                </div>
-                            </div>
-                            <div class="slide mixed" id="slide1">
-                                <img src="images/nn2.jpg"/>
-                                <div class="description">
-                                    Texto de muestra...
-                                </div>
-                            </div>
-                        </div>
-                        <span class="control left">‹</span>
-                        <span class="control right">›</span>
-                    </div>                   
-                    <p id="carrera">Hugo Norberto Rojas Salinas</p>
-                    <p id="carrera">Profesor Pleno UPB</p>
-                    <p id="carrera">Correo: <a href="mailto:hrojas@upb.edu">hrojas@upb.edu</a></p>
-                    <p id="carrera">Tel&eacute;: +591 - 4 4268287 - Int. 295</p>
-                    <p id="carrera">Ver Curriculum</p>
-            </div> 
+            <div id="cuerpo2"> 
                 <div id="title">
                     Centros de Investigaci&oacute;n
                 </div>  
@@ -132,28 +92,28 @@
                     <p id="carrera">En la actualidad, la Universidad Privada Boliviana cuenta con los 
                     siguientes centros de investigación:</p>
                 <div id="caja_inves">
-                    <img src="images/inves/CIEE-Logo.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones Económicas y Empresariales – CIEE</a></div>
+                    <img src="images/inves/CIEE-Logo.jpg" width="95" height="43"><div id="txt"><a href="centro.php?ask=1">Centro de Investigaciones Económicas y Empresariales – CIEE</a></div>
                 </div>
                 <div id="caja_inves">
-                    <img src="images/inves/CIPI-Logo.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones en Procesos Industriales – CIPI</a></div>
+                    <img src="images/inves/CIPI-Logo.jpg" width="95" height="43"><div id="txt"><a href="centro.php?ask=2">Centro de Investigaciones en Procesos Industriales – CIPI</a></div>
                 </div>
                 <div id="caja_inves">
-                    <img src="images/inves/CIO logo1(5).jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones Ópticas– CIO</a></div> 
+                    <img src="images/inves/CIO logo1(5).jpg" width="95" height="43"><div id="txt"><a href="centro.php?ask=3">Centro de Investigaciones Ópticas– CIO</a></div> 
                 </div>
                 <div id="caja_inves">
-                    <img src="images/inves/CIAAA-Logo.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones Agrícolas y Agroindustriales – CIAAA</a></div> 
+                    <img src="images/inves/CIAAA-Logo.jpg" width="95" height="43"><div id="txt"><a href="centro.php?ask=4">Centro de Investigaciones Agrícolas y Agroindustriales – CIAAA</a></div> 
                 </div>
                 <div id="caja_inves">
-                    <img src="images/inves/CINTI-Logo.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones de Nuevas Tecnologías Informáticas - CINTI</a></div>  
+                    <img src="images/inves/CINTI-Logo.jpg" width="95" height="43"><div id="txt"><a href="centro.php?ask=5">Centro de Investigaciones de Nuevas Tecnologías Informáticas - CINTI</a></div>  
                 </div>
                 <div id="caja_inves">
-                    <img src="images/inves/Carlos4.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Generación de Información Estadística - CEGIE</a></div> 
+                    <img src="images/inves/Carlos4.jpg" width="95" height="43"><div id="txt"><a href="centro.php?ask=6">Centro de Generación de Información Estadística - CEGIE</a></div> 
                 </div>
                 <div id="caja_inves">
-                    <img src="images/inves/CIMOC-Logo(1).jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones en Materiales y Obras Civiles – CIMOC</a></div>  
+                    <img src="images/inves/CIMOC-Logo(1).jpg" width="95" height="43"><div id="txt"><a href="centro.php?ask=7">Centro de Investigaciones en Materiales y Obras Civiles – CIMOC</a></div>  
                 </div>
                 <div id="caja_inves">
-                    <img src="images/inves/CIAU-Logo.jpg" width="95" height="43"><div id="txt"><a href="">Centro de Investigaciones en Arquitectura y Urbanismo – CIAU</a></div>  
+                    <img src="images/inves/CIAU-Logo.jpg" width="95" height="43"><div id="txt"><a href="centro.php?ask=8">Centro de Investigaciones en Arquitectura y Urbanismo – CIAU</a></div>  
                 </div>
             </div>      	
         </div>

@@ -175,12 +175,12 @@
                         <ul>
                             <li><a href="C13.html">Ing. Comercial</a></li>
                             <li><a href="C7.html">Ing. Financiera</a></li>
-                            <li><a href="C11.html">Lic. Administtraci&oacute;n de Empresas</a></li>
-                            <li><a href="C15.html">Lic. en Economia</a></li>
-                            <li><a href="C12.html">Lic en Dise&ntilde;o Gr&aacute;fico</a></li>
-                            <li><a href="C10.html">Lic. Marketing y Logistica</a></li>
-                            <li><a href="C14.html">Lic. en Derecho</a></li>
-                            <li><a href="C9.html">Lic. en Comunicaci&oacute;n</a></li> 
+                            <li><a href="C11.html">Administraci&oacute;n de Empresas</a></li>
+                            <li><a href="C15.html">en Economia</a></li>
+                            <li><a href="C12.html">Dise&ntilde;o Gr&aacute;fico</a></li>
+                            <li><a href="C10.html">Marketing y Logistica</a></li>
+                            <li><a href="C14.html">Derecho</a></li>
+                            <li><a href="C9.html">Comunicaci&oacute;n</a></li> 
                         </ul>
                     </li>
                     <li><a href="#se">Ingenier&iacute;a & Arquitectura (FIA)<i class="icon-home"></i></a>
@@ -192,7 +192,7 @@
                             <li><a href="C5.html">Ing. de Sistemas Computacionales</a></li>
                             <li><a href="C3.html">Ing. Industrial & de Sistemas</a></li>
                             <li><a href="C1.html">Ing. Petroleo & Gas natural</a></li>
-                            <li><a href="C8.html">Lic. en Arquitectura</a></li> 
+                            <li><a href="C8.html">Arquitectura</a></li> 
                         </ul>
                     </li>
                     <li><a href="">Calendario Acad&eacute;mico<i class="icon-calendar"></i></a></li>                  

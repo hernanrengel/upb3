@@ -40,12 +40,13 @@
         	<header>
              	<a href="index.php"><div id="logo"></div></a>
             	<ul class="nav">
-                	<li><a href="postgrado.php#doctorado">Doctorados<i class="icon-home"></i></a></li>
-                    <li><a href="postgrado.php#maestrias_t">Maestrias Ejecutivas<i class="icon-home"></i></a></li>
-                    <li><a href="postgrado.php#diplomados">Diplomados<i class="icon-home"></i></a></li>
-                    <li><a href="#admin">Plantel Administrativo<i class="icon-home"></i></a></li>
-                    <li><a href="convenios.php">Convenios<i class="icon-home"></i></a></li>
-                    <li><a href="financiamiento-postgrado.php">Financiamiento<i class="icon-home"></i></a></li>        
+                    <li><a href="admisiones-postgrado.php">Admisiones<i class="icon-home"></i></a></li>
+                    <li><a href="doctorados.php">Doctorados<i class="icon-home"></i></a></li>
+                    <li><a href="maestrias.php">Maestr&iacute;as Ejecutivas<i class="icon-home"></i></a></li>
+                    <li><a href="#diplomados">Diplomados<i class="icon-home"></i></a></li>
+                    <li><a href="plantel_admin.php#admin">Plantel Postgrado<i class="icon-home"></i></a></li>
+                    <li><a href="plantel_admin.php#convenios">Convenios<i class="icon-home"></i></a></li>
+                    <li><a href="plantel_admin.php#financiamiento">Financiamiento<i class="icon-home"></i></a></li>
                 </ul>
             </header>
     	<div id="cuerpo2">

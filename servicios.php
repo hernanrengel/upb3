@@ -45,7 +45,6 @@
             	<ul class="nav">
                     <li><a href="extension.php#areas">&Aacute;reas de Capacitaci&oacute;n<i class="icon-home"></i></a></li>
                     <li><a href="extension.php#continua">Formaci&oacute;n Cont&iacute;nua<i class="icon-home"></i></a></li>
-                    <li><a target="_blank" href="https://sistemas.upb.edu/">Intranet<i class="icon-home"></i></a></li>
                     <li><a href="#servicios">Nuestros Sevicios<i class="icon-home"></i></a></li>
                     <li><a href="#becas">Becas FEPC<i class="icon-home"></i></a></li>
                     <li><a target="_blank" href="http://extension.upb.edu/">Extensi&oacute;n<i class="icon-home"></i></a></li>                  
@@ -172,16 +171,7 @@
                                     </ul>
                                </div>
                             </div>
-                		</div>
-                        <a name="becas"></a>
-                        <div id="title">Becas FEPC</div>  
-                			<div id="box">
-                    			<p id="carrera">Para postular a la beca Primero tendra que descargar siguiente 
-                                formulario<br/>
-                                <p id="carrera">
-                                <a href="docs/Solicitud Beca para Cochabamb_FCEU.pdf">Formulario para solicitud de becas - Facultad de Extensión Universitaria</a></p>
-                		        </p>   
-                        </div>           
+                		</div>           
             		</div>
         		</div>
 		<?php require_once("footer.php");?>
